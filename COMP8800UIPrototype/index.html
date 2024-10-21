@@ -10,12 +10,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-title" content="">
     <meta name="application-name" content="BCIT">
-
     <link rel="icon" href="./files/favicon.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap" rel="stylesheet">
     <link href="./css/home.css" rel="stylesheet" async />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script defer type="text/javascript" src="./js/home.js"></script>
 </head>
 
@@ -54,32 +54,36 @@
             </div>
         </section>
         <section class="intro">
-            <div class="leftyy">
-                <div class="cont">
-                    <h2>Our AI Academic Advisor & Customer Service Agent</h2>
+            <div class="cont">
+                <div class="leftyy">
                     <div class="text">
-                        <p>
-                            BCIT's first AI chatbot is designed to serve as both an academic advisor and a customer
-                            service agent, providing tailored assistance to students and applicants. Powered by advanced
-                            open-source GPT models trained on BCIT's website content, this AI chatbot is equipped to
-                            handle a wide range of inquiries. Whether students need help navigating course selections,
-                            understanding program requirements, or exploring career pathways, the chatbot offers
-                            detailed, case-specific advice. It is available 24/7, making it a convenient resource for
-                            those seeking guidance on their educational journey.
-                        </p>
-                        <p>
-                            In addition to academic support, the AI chatbot excels in customer service by addressing
-                            administrative concerns such as application status, tuition fees, or campus services. By
-                            tapping into the wealth of data from BCIT�s official resources, it ensures that responses
-                            are accurate, up-to-date, and relevant to each user's individual needs. This dual-purpose
-                            system not only enhances the student experience by reducing wait times but also empowers
-                            applicants to make informed decisions with personalized information at their fingertips.
-                        </p>
+                        <h2>Our AI Academic Advisor & Customer Service Agent</h2>
+                        <div class="text">
+                            <p>
+                                BCIT's first AI chatbot is designed to serve as both an academic advisor and a customer
+                                service agent, providing tailored assistance to students and applicants. Powered by advanced
+                                open-source GPT models trained on BCIT's website content, this AI chatbot is equipped to
+                                handle a wide range of inquiries. Whether students need help navigating course selections,
+                                understanding program requirements, or exploring career pathways, the chatbot offers
+                                detailed, case-specific advice. It is available 24/7, making it a convenient resource for
+                                those seeking guidance on their educational journey.
+                            </p>
+                            <p>
+                                In addition to academic support, the AI chatbot excels in customer service by addressing
+                                administrative concerns such as application status, tuition fees, or campus services. By
+                                tapping into the wealth of data from BCIT's official resources, it ensures that responses
+                                are accurate, up-to-date, and relevant to each user's individual needs. This dual-purpose
+                                system not only enhances the student experience by reducing wait times but also empowers
+                                applicants to make informed decisions with personalized information at their fingertips.
+                            </p>
+                            <a class="cta" onclick="openPopup()">Start Chatting With Our AI Agent!</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="rightyy">
-                <img class="gpt-image" />
+                <div class="rightyy">
+                    <img class="gpt-image" src="./files/How-to-Create-an-AI-Chatbot.jpg"/>
+                </div>
+
             </div>
         </section>
         <section class="cta">
@@ -88,12 +92,12 @@
                     2025/2026 BCIT Future Student Guide
                 </h2>
                 <p>
-                    Check out the new Future Student Guide and get a glimpse into all that BCIT has to offer�from
+                    Check out the new Future Student Guide and get a glimpse into all that BCIT has to offer from
                     programs to services, and tips to get started.
                 </p>
                 <button class="cta_btn">
                     <span>
-                        Get Your Copy
+                        Talk to our AI Customer Service Agent
                     </span>
                     <img src="" class="arrow" />
 
@@ -103,7 +107,7 @@
     </main>
 
 
-    <footer class="home-footer">
+    <!-- <footer class="home-footer">
         <div class="cont">
             <div class="lefty">
                 <div class="contact">
@@ -203,7 +207,7 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </footer> -->
 
     <section class="chat_window">
         <div class="cont">
@@ -247,7 +251,7 @@
                         <ul>
                             <li><strong>English language proficiency:</strong> <a
                                     href="https://www.bcit.ca/admission/entrance-requirements/english-language-proficiency/#category2">Category
-                                    2</a> � English Studies 12 (67%) or equivalent</li>
+                                    2</a> English Studies 12 (67%) or equivalent</li>
                             <br />
 
 

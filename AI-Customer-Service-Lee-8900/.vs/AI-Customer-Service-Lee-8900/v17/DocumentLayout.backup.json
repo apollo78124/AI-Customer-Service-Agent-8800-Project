@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|d:\\comp8900\\repo\\ai-customer-service-lee-8900\\ai-customer-service-lee-8900\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60712524-CB05-4833-B9EE-100E1F41AC7D}|AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900.csproj|solutionrelative:ai-customer-service-lee-8900\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:58:45.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:58:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:58:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:58:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:57:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:33:08.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AI-Customer-Service-Lee-8900\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\COMP8900\\Repo\\AI-Customer-Service-Lee-8900\\AI-Customer-Service-Lee-8900\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AI-Customer-Service-Lee-8900\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T08:33:00.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

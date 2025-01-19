@@ -1,0 +1,339 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Catamaran";
+        transition: all .2s ease-in
+}
+
+header {
+    width: 100%;
+    height: fit-content;
+    position: absolute;
+    z-index: 42069;
+    top: 0px;
+    left: 0px;
+    background-color: transparent;
+    padding: 8px;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0/20%);
+}
+
+header .nav_bar {
+    width: 100%;
+    max-width: 1048px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+
+header .nav_bar .lefty {
+    width: 58px;
+}
+
+header .nav_bar a {
+    text-decoration: none;
+    color: #003c71;
+    color: #FFF;
+    font-family: 'Catamaran';
+    font-weight: 700;
+    letter-spacing: .02em;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+}
+
+header .nav_bar a:hover {
+    border-bottom: 3px solid #FFF;
+}
+
+header .nav_bar .lefty img.logo {
+    height: 52px;
+    width: auto;
+    object-fit: contain;
+    display:  block;
+}
+
+header .nav_bar .rightyy {
+    display: flex;
+    height: fit-content;
+    width: calc(100% - 58px);
+    align-items: center;
+    justify-content: flex-end;
+    padding-left: 30px;
+}
+
+header .nav_bar .rightyy .page_links{
+    display: flex;
+    column-gap: 84px;
+}
+
+main.home {
+    padding-top: 0px;
+    padding-bottom: 52px;
+}
+
+main.home section.base_hero {
+    width: 100%;
+    height: auto;
+    max-height: 100vh;
+    aspect-ratio: 16 / 10;
+    position: relative;
+    background-image: url('../files/ai-customer-service-agent.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main.home section.base_hero:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    background: linear-gradient(0deg,rgba(0,0,0,.6) 1.82%,rgba(0,0,0,.380989) 45.82%,rgba(0,0,0,0) 97.45%)
+}
+
+main.home section.base_hero .cont {
+    width: 100%;
+    max-width: 1048px;
+    margin: 0 auto;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding: 71px 20px;
+    position: relative;
+    z-index: 69;
+}
+
+
+main.home section.base_hero .cont .text h1 {
+    font-family: "Catamaran";
+    font-weight: 700;
+    color: #FFF;
+    font-size: 72px;
+    margin-bottom: 5px;
+    line-height: 130%;
+}
+
+main.home section.base_hero .cont .text h2 {
+    font-family: 'Catamaran';
+    font-weight: 600;
+    color: #FFF;
+    font-size: 24px;
+}
+
+main.home section.intro .cont {
+    display: flex;
+    column-gap: 4%;
+    justify-content: space-between;
+    max-width: 1048px;
+    margin: 0px auto;
+}
+
+main.home section.intro .cont .leftyy {
+    width: 56%;
+    padding: 72px 20px;
+}
+
+main.home section.intro .cont .leftyy .text  h2 {
+    font-size: 52px;
+    line-height: 120%;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #003c71;
+}
+
+main.home section.intro .cont .leftyy .text p {
+    font-size: 14px;
+    line-height: 120%;
+    font-weight: 400;
+    color: #003c71;
+    margin-bottom: 25px
+}
+
+main.home section.intro .cont .leftyy .text a {
+    font-size: 16px;
+    line-height: 120%;
+    font-weight: 700;
+    color: #003c71;
+    margin-bottom: 25px;
+    padding: 10px;
+    padding-bottom: 0px;
+    border-bottom: 3px solid #fff400;
+    cursor: pointer;
+}
+
+main.home section.intro .cont .leftyy .text a:hover {
+    border-bottom: 3px solid #003c71;
+}
+
+main.home section.intro .cont .rightyy {
+    width: 40%;
+}
+
+main.home section.intro .cont .rightyy img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+main.home section.cta {
+    display: block;
+    width: 100%;
+    max-width: 1160px;
+    margin: 0px auto;
+    background-image: url('../files/cta.jpg');
+    position: relative;
+    
+}
+
+main.home section.cta::before {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    content: "";
+    background-color: #001222;
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+}
+
+main.home section.cta .cont {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 130px 15px;
+    position: relative;
+    z-index: 69;
+}
+
+main.home section.cta .cont h2 {
+    font-size: 32px;
+    color: #FFF;
+    
+}
+
+main.home section.cta .cont p {
+    font-size: 14px;
+    color: #FFF;
+    margin-bottom: 20px
+}
+
+main.home section.cta .cont button {
+    font-size: 18px;
+    font-weight: 800;
+    padding: 20px;
+    color: #FFF;
+    background-color: transparent;
+    border: 3px solid #FFF;
+    cursor: pointer;
+}
+
+footer {
+    width: 100%;
+}
+
+footer .cont {
+    width: 100%;
+    max-width: 1048px;
+    margin: 0px auto;
+    padding: 40px 20px; 
+}
+
+section.chat_window {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background: transparent;
+    z-index: 42069;
+    display: none;
+    transition: none;
+}
+
+section.chat_window .cont{
+    width: 100%;
+    background-color: #FFF;
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+section.chat_window .cont .header{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+section.chat_window .cont .header .lefty {
+    display: flex;
+    column-gap: 20px;
+}
+
+section.chat_window .cont .header .lefty .dp {
+    width: 20px;
+    height: 20px;
+}
+
+section.chat_window .cont .header .lefty .dp img {
+    width: 20px;
+    height: 20px;
+}
+
+section.chat_window .cont .header .lefty  button {
+    border: none;
+    background-color: transparent;
+    font-weight: 700;
+}
+
+section.chat_window .cont .chatting {
+    max-height: 70vh;
+    overflow-y: auto;
+    margin-bottom: 30px;
+}
+
+section.chat_window .cont .chatting .msg_track {
+    height: fit-content;
+    padding: 20px;
+}
+
+section.chat_window .cont .chatting .msg_track ul {
+    list-style: inside;    
+}
+
+section.chat_window .cont .chatting .msg_track > div {
+    background-color: #f0f0f0;
+    margin-bottom: 30px;
+    width: fit-content;
+    max-width: 70%;
+    border-radius: 10px;
+    padding: 10px 20px;
+    float: right;
+    transition: none;
+}
+
+section.chat_window .cont .chatting .msg_track > .message_me {
+    background-color: #0084ff;
+    float: right;
+    color: #FFF;
+    font-weight: 500;
+    display: none;
+}
+
+section.chat_window .cont .chatting .msg_track > .message_other {
+    float: left;
+    display: none;
+}
+
+section.chat_window .cont .chat_ctrl_panel textarea {
+    width: 95%;
+    padding: 8px;
+    min-height: 50px;
+}

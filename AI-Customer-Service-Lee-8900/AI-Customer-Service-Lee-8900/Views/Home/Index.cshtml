@@ -1,0 +1,327 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>AI Academic Advisor | BCIT</title>
+    <meta charset="utf-8">
+    <meta name="author" content="David Lee">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-title" content="">
+    <meta name="application-name" content="BCIT">
+    <link rel="icon" href="./files/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap" rel="stylesheet">
+    <link href="./css/home.css" rel="stylesheet" async />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script defer type="text/javascript" src="./js/home.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="nav_bar">
+            <div class="lefty">
+                <a href="www.bcit.ca">
+                    <img src="./files/logo.svg" class="logo" />
+                </a>
+            </div>
+            <div class="rightyy">
+                <div class="page_links">
+                    <a class="link" href="https://www.bcit.ca/about/visit/">
+                        Visit Us
+                    </a>
+                    <a class="link" href="https://www.bcit.ca/contacts/">
+                        Contact Us
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="home">
+        <section class="base_hero">
+            <div class="cont">
+                <div class="text">
+                    <h1>
+                        AI Student Advisor
+                    </h1>
+                    <h2>
+                        Speak to our AI student advisor powered by GPT Large Language Model
+                    </h2>
+                </div>
+            </div>
+        </section>
+        <section class="intro">
+            <div class="cont">
+                <div class="leftyy">
+                    <div class="text">
+                        <h2>Our AI Academic Advisor & Customer Service Agent</h2>
+                        <div class="text">
+                            <p>
+                                BCIT's first AI chatbot is designed to serve as both an academic advisor and a customer
+                                service agent, providing tailored assistance to students and applicants. Powered by advanced
+                                open-source GPT models trained on BCIT's website content, this AI chatbot is equipped to
+                                handle a wide range of inquiries. Whether students need help navigating course selections,
+                                understanding program requirements, or exploring career pathways, the chatbot offers
+                                detailed, case-specific advice. It is available 24/7, making it a convenient resource for
+                                those seeking guidance on their educational journey.
+                            </p>
+                            <p>
+                                In addition to academic support, the AI chatbot excels in customer service by addressing
+                                administrative concerns such as application status, tuition fees, or campus services. By
+                                tapping into the wealth of data from BCIT's official resources, it ensures that responses
+                                are accurate, up-to-date, and relevant to each user's individual needs. This dual-purpose
+                                system not only enhances the student experience by reducing wait times but also empowers
+                                applicants to make informed decisions with personalized information at their fingertips.
+                            </p>
+                            <a class="cta" onclick="openPopup()">Start Chatting With Our AI Agent!</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="rightyy">
+                    <img class="gpt-image" src="./files/How-to-Create-an-AI-Chatbot.jpg" />
+                </div>
+
+            </div>
+        </section>
+        <section class="cta">
+            <div class="cont">
+                <h2>
+                    2025/2026 BCIT Future Student Guide
+                </h2>
+                <p>
+                    Check out the new Future Student Guide and get a glimpse into all that BCIT has to offer from
+                    programs to services, and tips to get started.
+                </p>
+                <button class="cta_btn">
+                    <span>
+                        Talk to our AI Customer Service Agent
+                    </span>
+                    <img src="" class="arrow" />
+
+                </button>
+            </div>
+        </section>
+    </main>
+
+
+    <!-- <footer class="home-footer">
+        <div class="cont">
+            <div class="lefty">
+                <div class="contact">
+                    <h2>
+                        Contact
+                    </h2>
+                    <p>
+                        3700 Willingdon Ave.
+
+                        Burnaby, British Columbia
+
+                        Canada V5G 3H2
+                    </p>
+                    <p>
+                        Telephone: <a href="tel:1-604-434-5734">604-434-5734</a>
+                        Toll-free (Can/US): <a href="tel:1-866-434-1610">1-866-434-1610</a>
+                        <a href="https://www.bcit.ca/contacts/">More contact numbers</a>
+                    </p>
+
+                    <ul class="social-follow__list">
+                        <li class="social-follow__item social-follow__item--facebook">
+                            <a href="https://www.facebook.com/bcit.ca" class="social-follow__anchor" rel="me noopener"
+                                title="Like us on Facebook">
+                                <i class="icon icon-facebook"></i>
+                                <span class="a11y-visual-hide">Like us on Facebook</span>
+                            </a>
+                        </li>
+                        <li class="social-follow__item social-follow__item--twitter">
+                            <a href="https://twitter.com/bcit" class="social-follow__anchor" rel="me noopener"
+                                title="Follow us on Twitter">
+                                <i class="icon icon-twitter"></i>
+                                <span class="a11y-visual-hide">Follow us on Twitter</span>
+                            </a>
+                        </li>
+                        <li class="social-follow__item social-follow__item--linkedin">
+                            <a href="https://www.linkedin.com/school/bcit/" class="social-follow__anchor"
+                                rel="me noopener" title="Add us on LinkedIn">
+                                <i class="icon icon-linkedin"></i>
+                                <span class="a11y-visual-hide">Add us on LinkedIn</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="rightyy">
+                    <h2>
+                        Campus Information
+                    </h2>
+                    <ol class="footer-nav__list">
+                        <li>
+                            <a href="/about/visit/campuses-directions/burnaby/">Burnaby Campus</a>
+                        </li>
+                        <li>
+                            <a href="/about/visit/campuses-directions/downtown/">Downtown Campus</a>
+                        </li>
+                        <li>
+                            <a href="/about/visit/campuses-directions/marine/">Marine Campus</a>
+                        </li>
+                        <li>
+                            <a href="/about/visit/campuses-directions/aerospace/">Aerospace Technology Campus</a>
+                        </li>
+                        <li>
+                            <a href="/about/visit/campuses-directions/annacis-island/">Annacis Island Campus</a>
+                        </li>
+                    </ol>
+                    <ol class="footer-nav__list">
+                        <li>
+                            <a href="/contacts/?from=https://www.bcit.ca/#website-feedback">Feedback</a>
+                        </li>
+                        <li>
+                            <a href="/copyright/">Copyright</a>
+                        </li>
+                        <li>
+                            <a href="/privacy/">Privacy</a>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <div class="righty">
+                <div class="leftyy">
+                    <ol class="footer-nav__list">
+                        <li class="menu-item menu-item--depth-0"><a href="https://commons.bcit.ca/news/">News</a></li>
+                        <li class="menu-item menu-item--depth-0"><a href="https://www.bcit.ca/events/">Events</a></li>
+                        <li class="menu-item menu-item--depth-0"><a
+                                href="https://www.bcit.ca/about/careers/">Careers</a></li>
+                    </ol>
+                </div>
+                <div class="rightyy">
+                    <ol class="footer-nav__list">
+                        <li class="menu-item menu-item--depth-0"><a href="https://www.bcit.ca/about/visit/">Visit</a>
+                        </li>
+                        <li class="menu-item menu-item--depth-0"><a href="https://secure.bcit.ca/sis/apply/">Apply
+                                Now</a></li>
+                        <li class="menu-item menu-item--depth-0"><a
+                                href="https://www.bcit.ca/foundation/giving-to-bcit/">Give</a></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </footer> -->
+
+    <section class="chat_window">
+        <div class="cont">
+            <div class="header">
+                <div class="lefty">
+                    <div class="dp">
+                        <img class="profile_pic" />
+                    </div>
+                    <button class="bot_name">
+                        <span>
+                            AI Agent
+                        </span>
+                        <img class="down_arow" />
+                    </button>
+                </div>
+                <div class="rightyy">
+                    <button class="minimize">
+                        <img />
+                    </button>
+                    <button class="close">
+                        <img />
+                    </button>
+                </div>
+            </div>
+            <div class="chatting">
+                <div class="msg_track">
+                    <div class="message_me">
+                        <p>
+                            What are the requirements to enter the BCIT Bachelor of Science?
+                        </p>
+                    </div>
+                    <div class="message_other">
+                        <p>
+                            Refer to the following link: <a href="https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/#entry">
+                                Applied Computer Science (Network Security Applications Development Option), Bachelor of
+                                Science, Full-time/Part-time
+                            </a>
+                        </p>
+
+                        <ul>
+                            <li>
+                                <strong>English language proficiency:</strong> <a href="https://www.bcit.ca/admission/entrance-requirements/english-language-proficiency/#category2">
+                                    Category
+                                    2
+                                </a> English Studies 12 (67%) or equivalent
+                            </li>
+                            <br />
+
+
+                            <li>
+                                <strong>Post-secondary education:</strong> A minimum of 60.0 credits of post-secondary
+                                education in Computing from a recognized institution, which consists of:
+                            </li>
+
+                            <ul>
+                                <li>6.0 credits of English or communications</li>
+                                <li>6.0 credits of math, with a minimum of 3.0 credits in discrete math</li>
+                                <li>3.0 credits of statistics</li>
+                                <li>
+                                    27.0 credits of computing, with a minimum of 3.0 credits in each of the following
+                                    seven courses:
+                                    <ul>
+                                        <li>Algorithms and data structures</li>
+                                        <li>Computer architecture</li>
+                                        <li>Database</li>
+                                        <li>Data communications and networking</li>
+                                        <li>Object-oriented programming</li>
+                                        <li>Procedural programming</li>
+                                        <li>Systems analysis and design</li>
+                                    </ul>
+
+                                    In addition to the above, acceptance into the following options is subject to the
+                                    following requirements:
+
+                                    <ul>
+                                        <li>Games Development Option requires familiarity with C++.</li>
+                                        <li>Network Security Development Option requires familiarity with C. </li>
+
+                                    </ul>
+                                </li>
+                                <li> 18.0 of general education and/or other computing courses:</li>
+                                <ul>
+                                    <li>
+                                        The BScACS Program Head will assess the equivalency of credits obtained from
+                                        other institutions to ensure that graduation requirements are met.
+                                    </li>
+                                </ul>
+
+                            </ul>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="chat_ctrl_panel">
+                <button class="voice_cmd">
+                    <img />
+                </button>
+                <button class="file_attachment">
+                    <img />
+                </button>
+                <textarea>
+                    Type message here...
+                </textarea>
+                <button class="send_btn">
+                    <img />
+                </button>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

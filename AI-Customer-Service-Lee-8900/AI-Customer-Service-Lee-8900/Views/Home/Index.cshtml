@@ -99,7 +99,7 @@
                     Check out the new Future Student Guide and get a glimpse into all that BCIT has to offer from
                     programs to services, and tips to get started.
                 </p>
-                <button class="cta_btn">
+                <button class="cta_btn" onclick="openPopup()">
                     <span>
                         Talk to our AI Customer Service Agent
                     </span>
@@ -226,70 +226,73 @@
             <div class="chatting">
                 <div class="msg_track">
                     <div class="message_me">
-                        <p>
-                            What are the requirements to enter the BCIT Bachelor of Science?
-                        </p>
+                        <div>
+                            <p>
+                                What are the requirements to enter the BCIT Bachelor of Science?
+                            </p>
+                        </div>
                     </div>
                     <div class="message_other">
-                        <p>
-                            Refer to the following link: <a href="https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/#entry">
-                                Applied Computer Science (Network Security Applications Development Option), Bachelor of
-                                Science, Full-time/Part-time
-                            </a>
-                        </p>
-
-                        <ul>
-                            <li>
-                                <strong>English language proficiency:</strong> <a href="https://www.bcit.ca/admission/entrance-requirements/english-language-proficiency/#category2">
-                                    Category
-                                    2
-                                </a> English Studies 12 (67%) or equivalent
-                            </li>
-                            <br />
-
-
-                            <li>
-                                <strong>Post-secondary education:</strong> A minimum of 60.0 credits of post-secondary
-                                education in Computing from a recognized institution, which consists of:
-                            </li>
+                        <div>
+                            <p>
+                                Refer to the following link: <a href="https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/#entry">
+                                    Applied Computer Science (Network Security Applications Development Option), Bachelor of
+                                    Science, Full-time/Part-time
+                                </a>
+                            </p>
 
                             <ul>
-                                <li>6.0 credits of English or communications</li>
-                                <li>6.0 credits of math, with a minimum of 3.0 credits in discrete math</li>
-                                <li>3.0 credits of statistics</li>
                                 <li>
-                                    27.0 credits of computing, with a minimum of 3.0 credits in each of the following
-                                    seven courses:
-                                    <ul>
-                                        <li>Algorithms and data structures</li>
-                                        <li>Computer architecture</li>
-                                        <li>Database</li>
-                                        <li>Data communications and networking</li>
-                                        <li>Object-oriented programming</li>
-                                        <li>Procedural programming</li>
-                                        <li>Systems analysis and design</li>
-                                    </ul>
-
-                                    In addition to the above, acceptance into the following options is subject to the
-                                    following requirements:
-
-                                    <ul>
-                                        <li>Games Development Option requires familiarity with C++.</li>
-                                        <li>Network Security Development Option requires familiarity with C. </li>
-
-                                    </ul>
+                                    <strong>English language proficiency:</strong> <a href="https://www.bcit.ca/admission/entrance-requirements/english-language-proficiency/#category2">
+                                        Category
+                                        2
+                                    </a> English Studies 12 (67%) or equivalent
                                 </li>
-                                <li> 18.0 of general education and/or other computing courses:</li>
+                                <br />
+
+
+                                <li>
+                                    <strong>Post-secondary education:</strong> A minimum of 60.0 credits of post-secondary
+                                    education in Computing from a recognized institution, which consists of:
+                                </li>
+
                                 <ul>
+                                    <li>6.0 credits of English or communications</li>
+                                    <li>6.0 credits of math, with a minimum of 3.0 credits in discrete math</li>
+                                    <li>3.0 credits of statistics</li>
                                     <li>
-                                        The BScACS Program Head will assess the equivalency of credits obtained from
-                                        other institutions to ensure that graduation requirements are met.
+                                        27.0 credits of computing, with a minimum of 3.0 credits in each of the following
+                                        seven courses:
+                                        <ul>
+                                            <li>Algorithms and data structures</li>
+                                            <li>Computer architecture</li>
+                                            <li>Database</li>
+                                            <li>Data communications and networking</li>
+                                            <li>Object-oriented programming</li>
+                                            <li>Procedural programming</li>
+                                            <li>Systems analysis and design</li>
+                                        </ul>
+
+                                        In addition to the above, acceptance into the following options is subject to the
+                                        following requirements:
+
+                                        <ul>
+                                            <li>Games Development Option requires familiarity with C++.</li>
+                                            <li>Network Security Development Option requires familiarity with C. </li>
+
+                                        </ul>
                                     </li>
+                                    <li> 18.0 of general education and/or other computing courses:</li>
+                                    <ul>
+                                        <li>
+                                            The BScACS Program Head will assess the equivalency of credits obtained from
+                                            other institutions to ensure that graduation requirements are met.
+                                        </li>
+                                    </ul>
+
                                 </ul>
-
                             </ul>
-
-                        </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -300,12 +303,10 @@
                 <button class="file_attachment">
                     <img />
                 </button>
-                <textarea>
-                    Type message here...
-                </textarea>
-                <button class="send_btn">
-                    <img />
-                </button>
+                <textarea class="usr_msg" placeholder="Type message here..." onsubmit="sendMessage()"></textarea>
+                    <button class="send_btn" onclick="sendMessage()">
+                        <img />
+                    </button>
             </div>
         </div>
     </section>

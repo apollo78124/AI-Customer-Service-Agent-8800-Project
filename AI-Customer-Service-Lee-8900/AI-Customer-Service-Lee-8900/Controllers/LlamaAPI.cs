@@ -67,7 +67,7 @@ namespace AI_Customer_Service_Lee_8900.Controllers
         [HttpPost]
         public async Task<IEnumerable<string>> PostAsync([FromBody] string value)
         {
-            var userPrompt = "Hi, What's your name?";
+            var userPrompt = value;
             chatHistory.Add(new ChatMessage(ChatRole.User, userPrompt));
 
             var response = "";

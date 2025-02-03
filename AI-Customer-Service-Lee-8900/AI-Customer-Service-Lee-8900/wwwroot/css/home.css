@@ -350,43 +350,69 @@ section.chat_window {
             max-height: 70vh;
             overflow-y: auto;
             margin-bottom: 30px;
+            scroll-snap-align: end;
         }
 
             section.chat_window .cont .chatting .msg_track {
                 height: fit-content;
                 padding: 20px;
+                display: flex;
+                flex-direction: column;
+                /* position: relative; */
             }
 
                 section.chat_window .cont .chatting .msg_track ul {
                     list-style: inside;
                 }
 
-                section.chat_window .cont .chatting .msg_track > div {
-                    background-color: #f0f0f0;
-                    margin-bottom: 30px;
-                    width: fit-content;
-                    max-width: 70%;
-                    border-radius: 10px;
-                    padding: 10px 20px;
-                    float: right;
-                    transition: none;
+                section.chat_window .cont .chatting .msg_track > .message_me {
+                    background-color: transparent;
+                    padding-bottom: 30px;
                 }
 
-                section.chat_window .cont .chatting .msg_track > .message_me {
-                    background-color: #0084ff;
-                    float: right;
-                    color: #FFF;
-                    font-weight: 500;
-                    display: none;
-                }
+                    section.chat_window .cont .chatting .msg_track > .message_me > div {
+                        background-color: #0084ff;
+                        color: #FFF;
+                        font-weight: 500;
+                        width: fit-content;
+                        max-width: 70%;
+                        border-radius: 10px;
+                        padding: 10px 20px;
+                        float: right;
+                        transition: none;
+                    }
 
                 section.chat_window .cont .chatting .msg_track > .message_other {
-                    float: left;
-                    display: none;
+                    padding-bottom: 30px;
                 }
 
-        section.chat_window .cont .chat_ctrl_panel textarea {
-            width: 95%;
-            padding: 8px;
-            min-height: 50px;
+
+                    section.chat_window .cont .chatting .msg_track > .message_other > div {
+                        background-color: #f0f0f0;
+                        width: fit-content;
+                        max-width: 70%;
+                        border-radius: 10px;
+                        padding: 10px 20px;
+                        float: left;
+                        transition: none;
+                    }
+
+        section.chat_window .cont .chat_ctrl_panel {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            padding: 0px 15px;
         }
+
+
+            section.chat_window .cont .chat_ctrl_panel textarea {
+                width: 92%;
+                padding: 8px;
+                min-height: 50px;
+            }
+
+            section.chat_window .cont .chat_ctrl_panel button.send_btn {
+                width: 4%;
+                min-height: 10px;
+                aspect-ratio: 5 / 5;
+            }

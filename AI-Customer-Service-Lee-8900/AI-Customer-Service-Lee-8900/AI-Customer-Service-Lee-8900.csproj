@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ChromaDB.Client" Version="1.0.1-ci-13369893450" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.12" />
@@ -16,6 +17,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.12" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.12" />
     <PackageReference Include="Microsoft.Extensions.AI.Ollama" Version="9.1.0-preview.1.25064.3" />
+    <PackageReference Include="Microsoft.KernelMemory.Core" Version="0.97.250211.1" />
   </ItemGroup>
 
 </Project>

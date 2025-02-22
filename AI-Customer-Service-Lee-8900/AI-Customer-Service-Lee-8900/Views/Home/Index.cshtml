@@ -1,4 +1,5 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -27,18 +28,35 @@
     <header>
         <div class="nav_bar">
             <div class="lefty">
-                <a href="www.bcit.ca">
+                <a href="www.bcit.ca" target="_blank">
                     <img src="./files/logo.svg" class="logo" />
                 </a>
             </div>
             <div class="rightyy">
                 <div class="page_links">
-                    <a class="link" href="https://www.bcit.ca/about/visit/">
+                    <a class="link" href="https://www.bcit.ca/about/visit/" target="_blank">
                         Visit Us
                     </a>
-                    <a class="link" href="https://www.bcit.ca/contacts/">
+                    <a class="link" href="https://www.bcit.ca/contacts/" target="_blank">
                         Contact Us
                     </a>
+
+                    <div class="user-info">
+                        <button class="opener">
+                            <img src="~/files/32147046.png"/>
+                            <span>David Lee</span>
+                        </button>
+                        <div class="user-dropdown">
+                            <button class="manage-account">
+                                <img src="~/files/manage.svg" />
+                                <span>Manage Account</span>
+                            </button>
+                            <button class="logout">
+                                <img src="~/files/logout.svg" />
+                                <span>Logout</span>
+                            </button>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -54,6 +72,12 @@
                     <h2>
                         Speak to our AI student advisor powered by GPT Large Language Model
                     </h2>
+                    <button class="cta_btn" onclick="openPopup()">
+                        <span>
+                            Talk to our AI Customer Service Agent
+                        </span>
+                        <img src="" class="arrow" />
+                    </button>
                 </div>
             </div>
         </section>
@@ -130,29 +154,29 @@
                         Canada V5G 3H2
                     </p>
                     <p>
-                        Telephone: <a href="tel:1-604-434-5734">604-434-5734</a>
-                        Toll-free (Can/US): <a href="tel:1-866-434-1610">1-866-434-1610</a>
-                        <a href="https://www.bcit.ca/contacts/">More contact numbers</a>
+                        Telephone: <a href="tel:1-604-434-5734" target="_blank">604-434-5734</a>
+                        Toll-free (Can/US): <a href="tel:1-866-434-1610" target="_blank">1-866-434-1610</a>
+                        <a href="https://www.bcit.ca/contacts/" target="_blank">More contact numbers</a>
                     </p>
 
                     <ul class="social-follow__list">
                         <li class="social-follow__item social-follow__item--facebook">
                             <a href="https://www.facebook.com/bcit.ca" class="social-follow__anchor" rel="me noopener"
-                                title="Like us on Facebook">
+                               title="Like us on Facebook" target="_blank">
                                 <i class="icon icon-facebook"></i>
                                 <span class="a11y-visual-hide">Like us on Facebook</span>
                             </a>
                         </li>
                         <li class="social-follow__item social-follow__item--twitter">
                             <a href="https://twitter.com/bcit" class="social-follow__anchor" rel="me noopener"
-                                title="Follow us on Twitter">
+                               title="Follow us on Twitter" target="_blank">
                                 <i class="icon icon-twitter"></i>
                                 <span class="a11y-visual-hide">Follow us on Twitter</span>
                             </a>
                         </li>
                         <li class="social-follow__item social-follow__item--linkedin">
                             <a href="https://www.linkedin.com/school/bcit/" class="social-follow__anchor"
-                                rel="me noopener" title="Add us on LinkedIn">
+                               rel="me noopener" title="Add us on LinkedIn" target="_blank">
                                 <i class="icon icon-linkedin"></i>
                                 <span class="a11y-visual-hide">Add us on LinkedIn</span>
                             </a>
@@ -166,30 +190,30 @@
                     </h2>
                     <ol class="footer-nav__list">
                         <li>
-                            <a href="/about/visit/campuses-directions/burnaby/">Burnaby Campus</a>
+                            <a href="/about/visit/campuses-directions/burnaby/" target="_blank">Burnaby Campus</a>
                         </li>
                         <li>
-                            <a href="/about/visit/campuses-directions/downtown/">Downtown Campus</a>
+                            <a href="/about/visit/campuses-directions/downtown/" target="_blank">Downtown Campus</a>
                         </li>
                         <li>
-                            <a href="/about/visit/campuses-directions/marine/">Marine Campus</a>
+                            <a href="/about/visit/campuses-directions/marine/" target="_blank">Marine Campus</a>
                         </li>
                         <li>
-                            <a href="/about/visit/campuses-directions/aerospace/">Aerospace Technology Campus</a>
+                            <a href="/about/visit/campuses-directions/aerospace/" target="_blank">Aerospace Technology Campus</a>
                         </li>
                         <li>
-                            <a href="/about/visit/campuses-directions/annacis-island/">Annacis Island Campus</a>
+                            <a href="/about/visit/campuses-directions/annacis-island/" target="_blank">Annacis Island Campus</a>
                         </li>
                     </ol>
                     <ol class="footer-nav__list">
                         <li>
-                            <a href="/contacts/?from=https://www.bcit.ca/#website-feedback">Feedback</a>
+                            <a href="/contacts/?from=https://www.bcit.ca/#website-feedback" target="_blank">Feedback</a>
                         </li>
                         <li>
-                            <a href="/copyright/">Copyright</a>
+                            <a href="/copyright/" target="_blank">Copyright</a>
                         </li>
                         <li>
-                            <a href="/privacy/">Privacy</a>
+                            <a href="/privacy/" target="_blank">Privacy</a>
                         </li>
                     </ol>
                 </div>
@@ -205,7 +229,7 @@
             <div class="header">
                 <div class="lefty">
                     <div class="dp">
-                        <img class="profile_pic" />
+                        <img class="profile_pic" src="~/files/bcit-bot.webp"/>
                     </div>
                     <button class="bot_name">
                         <span>
@@ -215,11 +239,11 @@
                     </button>
                 </div>
                 <div class="rightyy">
-                    <button class="minimize">
+@*                     <button class="minimize">
                         <img />
-                    </button>
-                    <button class="close">
-                        <img />
+                    </button> *@
+                    <button class="close" onclick="closePopup()">
+                        <svg viewBox="0 0 12 13" width="20" height="20" fill="rgb(105 157 239)" class="xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq" style="--color: rgb(105 157 239);"><g fill-rule="evenodd" transform="translate(-450 -1073)"><g fill-rule="nonzero"><path d="m98.095 917.155 7.75 7.75a.75.75 0 0 0 1.06-1.06l-7.75-7.75a.75.75 0 0 0-1.06 1.06z" transform="translate(353.5 159)"></path><path d="m105.845 916.095-7.75 7.75a.75.75 0 1 0 1.06 1.06l7.75-7.75a.75.75 0 0 0-1.06-1.06z" transform="translate(353.5 159)"></path></g></g></svg>
                     </button>
                 </div>
             </div>
@@ -235,7 +259,7 @@
                     <div class="message_other">
                         <div>
                             <p>
-                                Refer to the following link: <a href="https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/#entry">
+                                Refer to the following link: <a href="https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/#entry" target="_blank">
                                     Applied Computer Science (Network Security Applications Development Option), Bachelor of
                                     Science, Full-time/Part-time
                                 </a>
@@ -305,7 +329,7 @@
                 </button>
                 <textarea class="usr_msg" placeholder="Type message here..." onsubmit="sendMessage()"></textarea>
                     <button class="send_btn" onclick="sendMessage()">
-                        <img />
+                        <img src="~/files/send.svg"/>
                     </button>
             </div>
         </div>

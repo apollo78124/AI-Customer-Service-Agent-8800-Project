@@ -16,6 +16,8 @@ function sendMessage() {
 
     if (messageBox.val() != null && messageBox.val() != 'undefined' && messageBox.val().length > 0) {
         $(messageTrack).append('<div class="message_me"><div>' + messageBox.val() + '</div></div>');
+    } else {
+        return;
     }
 
     var chatTrack = $('section.chat_window .cont .chatting');
@@ -28,6 +30,7 @@ function sendMessage() {
         data: JSON.stringify(messageBox.val()), // Replace with actual value
         beforeSend: function () {
             $(messageTrack).append('<div class="message_other waiting"><div></div></div>');
+            chatTrack[0].scrollTop = chatTrack[0].scrollHeight;
         },
         success: function (response) {
             try {

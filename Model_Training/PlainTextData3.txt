@@ -1,0 +1,328 @@
+
+## **Applied Database Administration and Design, Associate Certificate, Part-time (6994ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Database Administration & Design Specialization**.
+- **Delivery:** **Blended (Online & On-Campus)**.
+- **Objective:**  
+  - Teach students how to **design, manage, and optimize databases**.
+  - Cover **SQL programming, data modeling, database security, and business analysis**.
+
+### **Key Learning Areas**
+- **SQL Database Design & Optimization**
+- **Data Modeling & Relational Databases**
+- **Server Administration & Data Quality**
+- **Governance, Access Control & Data Security**
+- **Cloud-Based Business Intelligence Tools (Azure, SQL Server)**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **2-5 years**.
+- **Schedule:** **Weekday evenings & weekends**.
+
+### **Core Courses**
+- **COMP 1630 - Relational Database Design & SQL (5.0 credits)**
+- **COMP 2831 - Business Analysis & Systems Design (4.0 credits)**
+- **COMP 3677 - Microsoft Server Administration 1 (1.5 credits)**
+- **COMP 3680 - Microsoft SQL Server Administration 2 (1.5 credits)**
+- **COMP 3771 - PowerShell Scripting for Database Admins (3.0 credits)**
+- **COMP 3839 - Data Quality Improvement (1.5 credits)**
+
+### **Elective Courses (Choose 7.5 Credits)**
+- **COMP 1288 - IT Project Management**
+- **COMP 2156 - Microsoft Power BI**
+- **COMP 2252 - SAP Crystal Reports**
+- **COMP 2256 - Tableau for Data Analytics**
+- **COMP 3678 - SQL Server Development**
+- **COMP 3679 - Azure SQL & Cloud-Based Analytics**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Basic computing & SQL knowledge (COMP 1002 recommended)**.  
+  - **Mathematics proficiency (Grade 12 or equivalent)**.  
+- **International Students:**  
+  - **Not available for study permit holders**.
+
+---
+
+## **Applied Network Administration and Design, Associate Certificate, Part-time (5515ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Network Administration & Security Specialization**.
+- **Delivery:** **In-person (Burnaby & Downtown Campus)**.
+- **Objective:**  
+  - Train students in **designing, managing, and securing enterprise networks**.
+  - Cover **Windows/Linux server administration, virtualization, and cloud security**.
+
+### **Key Learning Areas**
+- **Windows & Linux Server Administration**
+- **Network Security & Cybersecurity Foundations**
+- **Cloud & Virtualization Technologies**
+- **Scripting for Network Automation**
+- **Disaster Recovery & IT Governance**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **2-4 years**.
+- **Schedule:** **Evening & weekend courses**.
+
+### **Core Courses**
+- **COMP 1002 - Applied Computer Concepts (3.0 credits)**
+- **COMP 2629 - Enterprise Networking Fundamentals (4.0 credits)**
+- **COMP 2766 - Introduction to Linux (4.0 credits)**
+- **COMP 3677 - Windows Server Administration 1 (1.5 credits)**
+- **COMP 3681 - Windows Server Administration 2 (1.5 credits)**
+- **COMP 3704 - IT Security Fundamentals (3.0 credits)**
+- **COMP 4912 - Applied Virtual Networks (3.0 credits)**
+
+### **Elective Courses (Choose 3.0 Credits)**
+- **COMP 2767 - Linux Administration**
+- **COMP 3771 - PowerShell Scripting**
+- **COMP 4704 - Applied Network Security**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Prior IT experience or post-secondary education in computing**.  
+  - **Mathematics & English proficiency (Grade 12 or equivalent)**.  
+- **International Students:**  
+  - **Not available for study permit holders**.
+
+---
+
+## **Applied Web Development, Associate Certificate, Part-time (6957ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Front-End & Back-End Web Development Specialization**.
+- **Delivery:** **Blended (Online & On-Campus)**.
+- **Objective:**  
+  - Train students to develop **fully functional web applications**.
+  - Cover **HTML, CSS, JavaScript, UX/UI, and server-side programming**.
+
+### **Key Learning Areas**
+- **HTML, CSS, & JavaScript Fundamentals**
+- **Full-Stack Development (Node.js, React, PHP)**
+- **Database-Driven Web Applications**
+- **UX/UI Design & Business Analysis**
+- **Front-End & Back-End Web Technologies**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **1-3 years**.
+- **Schedule:** **Evening & weekend courses**.
+
+### **Core Courses**
+- **COMP 1630 - Relational Database & SQL (5.0 credits)**
+- **COMP 1850 - Introduction to Web Development (3.0 credits)**
+- **COMP 2132 - JavaScript for Web Development (3.0 credits)**
+- **COMP 2831 - Business Analysis & Systems Design (4.0 credits)**
+
+### **Elective Courses (Choose 9.0 Credits)**
+- **COMP 1011 - UX/UI Development**
+- **COMP 2052 - Android & Mobile App Development**
+- **COMP 2909 - Front-End with Angular & Vue.js**
+- **COMP 3012 - Back-End with Node.js**
+- **COMP 3013 - Front-End with React.js**
+- **COMP 3015 - PHP Web Application Development**
+- **COMP 4669 - Advanced PHP Web Applications**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Basic computing knowledge (COMP 1002 recommended)**.  
+  - **Mathematics & English proficiency (Grade 12 or equivalent)**.  
+- **International Students:**  
+  - **Not available for study permit holders**.
+
+---
+
+## **Assayer Training, Statement of Completion, Part-time (5360NOBCIT) - BCIT**
+### **Program Overview**
+- **Type:** **Mineral Assaying Training Program**.
+- **Delivery:** **Online with Lab Practicums**.
+- **Objective:**  
+  - Train students in **mineral identification, fire assaying, and wet analysis**.
+  - Prepare graduates for **BC Assayer Certification**.
+
+### **Key Learning Areas**
+- **Fire Assaying & Mineral Identification**
+- **Wet Chemical Analysis & Instrumentation**
+- **Sampling Theory & Statistical Methods**
+- **Quality Control & Assay Reporting**
+
+### **Program Structure**
+- **Intakes:** **Ongoing flexible intake**.
+- **Completion timeline:** **1.5 - 2 years**.
+- **Schedule:** **Online learning with lab practicums**.
+
+### **Core Courses**
+- **CHSC 5631 - Introduction to Assayer Training (3.0 credits)**
+- **CHSC 5632 - Mineral Identification & Fire Assaying (3.0 credits)**
+- **CHSC 5633 - Wet Chemical Assay & Qualitative Analysis (3.0 credits)**
+- **CHSC 5634 - Analytical Instrumentation (3.0 credits)**
+- **CHSC 5635 - Laboratory Practicum (3.0 credits)**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Diploma in Chemical or Mining Technology (or equivalent work experience)**.  
+  - **Basic Chemistry & Mathematics knowledge required**.  
+- **International Students:**  
+  - **Eligible if completing from outside Canada or with a valid work permit (not eligible for study permit holders)**.
+
+
+
+
+## **Biomedical Engineering Technology, Diploma, Full-time (5063DIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time, Two-Year Diploma in Biomedical Engineering Technology**.
+- **Delivery:** **In-person (Burnaby Campus)**.
+- **Objective:**  
+  - Train students in **medical device technology, electronics, and biomedical engineering applications**.
+  - Develop skills for **maintaining and designing medical equipment used in hospitals and clinics**.
+
+### **Key Learning Areas**
+- **Medical Device Technology & Patient Monitoring Systems**  
+- **Biomedical Instrumentation & Medical Imaging Systems**  
+- **Electronics, Microcontrollers & Embedded Systems**  
+- **Health Informatics & Networked Medical Systems**  
+- **Regulatory Compliance & Medical Equipment Standards**  
+
+### **Program Structure**
+- **Intake:** **September**.
+- **Duration:** **2 years (Four 15-week terms + Practicum)**.
+- **Schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.
+- **Practicum:** **5 weeks of industry training in a hospital, research facility, or medical equipment company**.
+
+### **Core Courses**
+#### **Level 1 (15 weeks)**
+- **BHSC 1101 - Anatomy and Physiology 1**
+- **BMET 1100 - Electronics Principles and Practice 1**
+- **COMP 1120 - Introduction to Computer Architecture**
+- **MATH 1781 - Technical Math for Biomedical Engineering**
+- **PHYS 1178 - Physics for Biomedical Engineering Technology**
+- **COMM 1178 - Technical Communication 1**
+
+#### **Level 2 (15 weeks)**
+- **BMET 2200 - Electronics Principles and Practice 2**
+- **BMET 2215 - Digital Electronics**
+- **BMET 2205 - Biomedical Computer Networks & Data Communication**
+- **MATH 2782 - Calculus for Biomedical Engineering**
+- **COMP 3152 - Software Engineering for Biomedical Applications**
+- **BHSC 2201 - Anatomy and Physiology 2**
+- **COMM 2278 - Technical Communication 2**
+
+#### **Level 3 (15 weeks)**
+- **BMET 3300 - Electronics Principles and Practice 3**
+- **BMET 3301 - Biomedical Devices Technology 1**
+- **BMET 3305 - Computer Network Applications in Healthcare**
+- **BMET 3315 - Microcontrollers & Embedded Systems**
+- **CHEM 1205 - General and Organic Chemistry for Biomedical Engineering**
+
+#### **Level 4 (15 weeks)**
+- **BMET 4401 - Biomedical Devices Technology 2**
+- **BMET 4402 - Biomedical Engineering Technology Capstone Project**
+- **BMET 4403 - Medical Imaging Systems**
+- **CHEM 2305 - Biochemistry & Instrumental Analysis**
+- **MATH 3782 - Statistics for Biomedical Engineering**
+
+#### **Level 4B (5 weeks)**
+- **BMET 4420 - Practicum & Industry Training (Mandatory)**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **English 12 (67%) or equivalent**.  
+  - **Math 12 (Pre-Calculus, Calculus, or Technical Math, 67%)**.  
+  - **Physics 12 (67%) or equivalent**.  
+  - **Chemistry 11 (67%) or equivalent**.  
+- **Additional Requirements:**  
+  - **Criminal Record Check**.  
+  - **Immunization Review (including COVID-19 vaccination)**.  
+  - **Mandatory Program Admission Forum Attendance**.  
+- **International Students:**  
+  - **Study permit required**.  
+  - **Co-op work permit required for practicum**.
+
+### **Career Paths**
+- **Biomedical Engineering Technologist (Hospitals, Clinics, Labs)**  
+- **Medical Equipment Technician (Manufacturers, Suppliers, Service Companies)**  
+- **Medical Device Research & Development**  
+- **Clinical Engineering & Healthcare Technology Management**  
+- **Regulatory Compliance & Medical Device Standards Analyst**  
+
+---
+
+## **British Columbia Institute of Technology (BCIT) Overview**
+### **Institution Overview**
+- **BCIT (British Columbia Institute of Technology) is a leading applied education institution** in Canada.
+- **Focus on hands-on learning, industry partnerships, and career-oriented education**.
+- **Programs offered across multiple disciplines:**
+  - **Applied & Natural Sciences**
+  - **Business & Media**
+  - **Computing & Information Technology**
+  - **Engineering**
+  - **Health Sciences**
+  - **Trades & Apprenticeships**
+
+### **Key Features**
+- **Big Info Event:** Largest program expo at BCIT (Feb 19, 4-7 PM).
+- **Flexible Learning & Microcredentials:** Specialized courses designed for working professionals.
+- **Industry-Connected Faculty:** Instructors with **direct, real-world experience**.
+- **Strong Career Outcomes:** Graduates highly employable in various industries.
+
+---
+
+## **Building Controls & Energy Management, Advanced Certificate, Part-time (5095ADCERT) - BCIT**
+### **Program Overview**
+- **Type:** **Advanced Certificate in Energy & Building Automation**.
+- **Delivery:** **Online (Part-time)**.
+- **Objective:**  
+  - Teach professionals how to **optimize energy efficiency through building control systems**.
+  - Develop expertise in **HVAC, automation, commissioning, and building analytics**.
+
+### **Key Learning Areas**
+- **Building Automation & Energy Management Systems**  
+- **HVAC Control Optimization**  
+- **Building Commissioning & Performance Analytics**  
+- **Energy Codes, Regulations & Compliance**  
+- **IT Integration & Smart Building Technologies**  
+
+### **Core Courses**
+- **CESA 5100 - Energy Basics**
+- **CESA 5320 - Energy Systems & Controls**
+- **CESA 5420 - Building System Integration & Analytics**
+- **CESA 5500 - Codes and Standards**
+- **CESA 5620 - Commissioning & Optimization**
+- **CESA 5700 - Decision Making in Energy Management**
+- **CESA 5800 - Change Management in Smart Buildings**
+- **CESA 5820 - Controls & Operations Management**
+- **CESA 5920 - Final Controls Project**
+
+### **Admissions & Requirements**
+- **Pre-entry Assessment Form required**.  
+- **Math 11 & English 12 (67%) or equivalent**.  
+- **Relevant diploma, degree, or Red Seal trade certification**.  
+- **Industry experience in building operations or facilities management preferred**.  
+- **International Students:** **Eligible for online completion (not for study permit holders).**
+
+---
+
+## **Building Energy Modelling and Simulation, Microcredential, Part-time (0829CM) - BCIT**
+### **Program Overview**
+- **Type:** **Energy Modelling & Simulation Microcredential**.
+- **Delivery:** **Online (Part-time)**.
+- **Objective:**  
+  - Train students to become **Building Energy Modellers**.
+  - Teach **whole-building energy simulations for design & retrofit decisions**.
+
+### **Key Learning Areas**
+- **Energy Modelling Fundamentals**  
+- **Building Performance Simulation**  
+- **High-Performance Building Design**  
+- **HVAC & Mechanical System Modelling**  
+- **Energy Efficiency & Sustainable Design Practices**  
+
+### **Core Courses**
+- **XBEM 3050 - Building Energy Modelling & Simulation Fundamentals**
+- **XBEM 3052 - Advanced Building Performance Simulation**
+- **XBEM 3054 - High-Performance Building Design Project**
+
+### **Admissions & Requirements**
+- **Intended for working professionals with prior education or experience in building energy systems**.  
+- **International Students:** **Eligible for online completion (not for study permit holders).**
+
+

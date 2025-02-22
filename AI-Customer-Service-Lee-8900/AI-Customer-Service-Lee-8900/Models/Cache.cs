@@ -3,21 +3,23 @@ using Microsoft.AspNetCore.Http;
 
 
 namespace AI_Customer_Service_Lee_8900.Models
-{
-    //public class Cache
-    //{
-    //    public static List<ChatMessage> ChatMessages
-    //    {
-    //        get
-    //        {
-    //            if (Microsoft.AspNetCore.Http.HttpContext. != null)
-    //            {
-    //                var cache = new List<IConversionCode>();
-    //                using (var db = new Connect()) foreach (var each in db.ConversionCodes.OrderBy(a => a.Name)) cache.Add(new IConversionCode(each));
-    //                HttpContext.Current.Cache.Insert("ConversionCodes", cache, null, DateTime.Now.AddHours(24), System.Web.Caching.Cache.NoSlidingExpiration);
-    //            }
-    //            return HttpContext.Current.Cache["ConversionCodes"] as List<IConversionCode>;
-    //        }
-    //    }
-    //}
+{   
+
+    public interface IChatHistoryService
+    {
+        List<ChatMessage> ChatHistory { get; }
+        IChatClient chatClient { get; }
+    }
+
+    public class ChatHistoryService : IChatHistoryService
+    {
+        public List<ChatMessage> ChatHistory { get; } = new List<ChatMessage>();
+        public IChatClient chatClient { get; } = new OllamaChatClient(new Uri("http://localhost:11434/"), "llama3.1");
+
+        public ChatHistoryService()
+        {
+            ChatHistory.Add(new ChatMessage(ChatRole.System, "You are a BCIT customer service agent. You will answer the customer's questions best to your knowledge as a representative of the BCIT customer service department. When asked who you are, say you are the AI customer service chatbot working for BCIT. If you don't know the answer, just say that \"I don't know\" but don't make up an answer on your own."));
+            
+        }
+    }
 }

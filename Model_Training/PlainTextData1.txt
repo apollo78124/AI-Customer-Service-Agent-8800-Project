@@ -1,0 +1,388 @@
+
+## **Advanced Forensic Nurse Examiner, Microcredential (0813CM) - BCIT**
+**Program Type:**  
+- **Microcredential** for forensic nurses to enhance skills, specialize in forensic healthcare, and maintain credibility in legal settings.
+- Builds upon the **Forensic Nurse Examiner microcredential**, offering **continuing education**.
+
+### **Overview:**
+- **Objective:**  
+  - Provide ongoing education for **Forensic Nurse Examiners (FNEs)** to **refresh skills, gain specialized competencies**, and **serve as expert witnesses in court**.
+  - Help prepare nurses **to treat vulnerable patients** while **aligning with legal and healthcare system requirements**.
+
+- **Delivery Mode:**  
+  - **Primarily online**, featuring a mix of **asynchronous learning modules and synchronous workshops**.
+  - **One in-person course** for hands-on skill-building.
+  - **Flexible Learning format** with options for full **online completion**.
+
+- **Microcredential Structure:**  
+  - Total of **3.0 credits**, earned by completing **six 0.5-credit courses**.
+  - Each course involves **7 hours of instruction**.
+
+### **Program Requirements & Admissions**
+- **Entrance Requirements:**  
+  - Recommended prior completion of:
+    - **FSCT 7810 - Introduction to Forensic Health Sciences**.
+    - **FSCT 7840 - Forensic Nurse Examiner Core Education** *(or departmental approval)*.
+  - **Experience working as a Forensic Nurse Examiner**.
+
+- **International Applicants:**  
+  - Available to **international students**, but only if they **complete the program from outside Canada** or hold a valid **non-study permit** in Canada.
+  - **Not eligible for study permit sponsorship**.
+
+- **Application Process:**  
+  - **No formal application required**.
+  - Upon completing all six courses, students must **email the program contact** with:
+    - **Full name**.
+    - **Student number**.
+    - **Mailing address**.
+  - A **microcredential certificate** will then be issued.
+
+- **Scheduled Intakes:**  
+  - Offered through **part-time Flexible Learning**.
+  - **Intakes in January, April, and September**.
+
+### **Courses & Curriculum**
+#### **Core Courses (Choose 6, Total 3.0 Credits)**:
+Each course is **0.5 credits** (7 instructional hours).
+
+1. **XFSC 7850 - Mock Sexual Assault Forensic Examination Workshop**  
+   - Hands-on workshop simulating a forensic examination.
+   - Covers proper **evidence collection, documentation, and forensic protocols**.
+
+2. **XFSC 7851 - Forensic Nurse Examiner Witness Testimony & CV Workshop**  
+   - Training on **testifying as an expert witness** in court.
+   - Guidance on developing a **professional forensic nurse CV**.
+
+3. **XFSC 7852 - Medical Legal Documentation for the Forensic Nurse Examiner**  
+   - Teaches best practices for **comprehensive forensic documentation**.
+   - **Legal and ethical considerations** in medical record-keeping.
+
+4. **XFSC 7853 - Forensic Examination of Non-Fatal Strangulation**  
+   - Covers **identifying, documenting, and assessing non-fatal strangulation injuries**.
+   - Legal implications and forensic evidence collection.
+
+5. **XFSC 7854 - Forensic Examination of Mild Traumatic Brain Injuries (mTBI) from Interpersonal Violence**  
+   - Focuses on detecting and assessing **brain injuries resulting from abuse**.
+   - Neurocognitive testing, symptoms recognition, and legal implications.
+
+6. **XFSC 7855 - Genital Examination: Normal & Abnormal Findings in Sexual Assault Forensic Examinations**  
+   - In-depth training on **recognizing genital trauma**.
+   - Forensic examination **protocols, legal considerations, and documentation**.
+
+7. **XFSC 7856 - Indigenous Cultural Awareness & Safety in Forensic Nursing**  
+   - Emphasizes **cultural competence in forensic nursing**.
+   - Understanding **historical trauma, systemic bias**, and best practices for working with Indigenous communities.
+
+### **Program Logistics & Costs**
+- **Tuition Fees:**  
+  - Charged **per course** under BCIT's **Flexible Learning Tuition structure**.
+  - Costs vary per term.
+
+- **Class Hours & Schedule:**  
+  - **In-person course (Mock Examination)**: One **full-day session (9:00 AM - 5:00 PM)**.
+  - **Online synchronous workshops**: Weekday **afternoons or evenings**.
+
+- **Completion Timeline:**  
+  - Can be completed in **as little as one year** on a **part-time basis**.
+
+- **Credential Issuance:**  
+  - Students receive a **microcredential certificate and digital badge** upon completion.
+
+### **Additional Information**
+- **Transfer Credit:**  
+  - Students can check **BCIT’s Transfer Equivalency Database** to determine if **previous forensic health credits** apply.
+
+- **Contact Information:**  
+  - **Email:** BCIT_forensics@bcit.ca  
+  - **Website:** [BCIT Forensic Nursing Programs](http://www.bcit.ca/forensics)  
+
+
+
+## **Advanced Java Development, Associate Certificate (6445ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Advanced-level** software development program.
+- **Delivery:** **Blended** (online & in-person).
+- **Prerequisite:** **Applied Software Development (ASD) Associate Certificate** or equivalent post-secondary education.
+- **Program Status:** **Under review, currently not accepting applications**.
+- **Intended Audience:**
+  - Software developers with prior **education and experience**.
+  - Individuals seeking **advanced Java and web application development** knowledge.
+
+### **Key Learning Areas**
+- **Advanced Java Web Applications**
+- **Object-Oriented Analysis and Design (OOAD)**
+- **Cloud Development and DevOps**
+- **Back-End & Front-End Java Development**
+- **Mobile Development (Android in Java)**
+- **Agile & IT Project Management**
+
+### **Core Courses (11.0 Credits)**
+- **COMP 3601 - Application Development with Java (4.0 credits)**
+- **COMP 3833 - Object-Oriented Analysis & Design (3.0 credits)**
+- **COMP 4601 - Advanced Java Web Development (4.0 credits)**
+
+### **Elective Courses (Choose 6.0 credits)**
+- **COMP 1288 - IT Project Management Fundamentals**
+- **COMP 2833 - Agile Scrum Methods**
+- **COMP 2909 - Front-End Web Dev (Angular & Vue.js)**
+- **COMP 3012 - Back-End Web Dev (Node.js)**
+- **COMP 3013 - Front-End Web Dev (React.js)**
+- **COMP 3215 - AWS Academy Cloud Architecting**
+- **COMP 3617 - Android & Mobile Apps in Java**
+- **COMP 4016 - Applied DevOps with Kubernetes**
+
+### **Admissions & Prerequisites**
+- **English Proficiency:** **Category 2** - English Studies 12 (67%) or equivalent.
+- **Not available to international students**.
+- **Requires prior Java, HTML5, CSS3, and JavaScript knowledge**.
+
+### **Costs & Timeline**
+- **Total cost:** Approx. **$5,000** (AJD alone), **$9,000** if combined with ASD.
+- **Completion timeline:** **4-5 part-time terms (15+ months)**.
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.
+
+---
+
+## **Agile Development, Associate Certificate (5530ACERT) - BCIT**
+### **Program Overview**
+- **Type:** Agile project management & software development training.
+- **Delivery:** **Blended (partially online, partially in-person)**.
+- **Prerequisite:** **COMP 1002 or equivalent knowledge**.
+- **Intended Audience:**
+  - Professionals in **IT, business analysis, software development**.
+  - Those interested in **Agile frameworks** like **Scrum, Kanban, Lean**.
+
+### **Key Learning Areas**
+- **Data modeling, UML & Business Process Management (BPM)**
+- **Agile frameworks: Scrum, Kanban, Lean Development**
+- **Business Analysis & Systems Design**
+- **Cost-benefit analysis & feasibility modeling**
+- **Technical writing & presentations**
+- **Team collaboration & Agile team management**
+
+### **Core Courses (18.5 Credits)**
+- **COMP 1630 - Relational Database Design & SQL (5.0 credits)**
+- **COMP 2831 - Business Analysis & Systems Design (4.0 credits)**
+- **COMP 2833 - Agile Scrum Methods (4.0 credits)**
+- **COMP 2836 - Agile Product Owner (4.0 credits)**
+
+### **Elective Courses (Choose 1.5 credits)**
+- **COMP 1288 - IT Project Management Fundamentals**
+- **XCOM 3840 - Technical Presentations**
+
+### **Certifications Prepared For**
+- **Professional Scrum Master™ (PSM 1)**
+- **Certified Scrum Product Owner® (PSPO1)**
+
+### **Admissions & Requirements**
+- **Requires previous post-secondary education & work experience**.
+- **Not available to international students**.
+- **English Proficiency:** **Category 2 (67%) or equivalent**.
+
+### **Costs & Timeline**
+- **Total cost:** Approx. **$3,500**.
+- **Completion timeline:** **Minimum 1 year (3-4 part-time terms)**.
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.
+
+---
+
+## **After You Apply - BCIT**
+### **Post-Application Steps**
+1. **Access myBCIT**  
+   - Receive BCIT ID & login instructions.
+   - Get access to the **Welcome to BCIT e-letter**.
+  
+2. **Monitor & Upload Documents in myBCIT**  
+   - Upload transcripts & supporting documents.
+   - Check **application status** updates.
+  
+3. **Wait for an Admission Decision**  
+   - Timeline depends on **program type, application completeness, and document review**.
+  
+4. **Prepare to Start**  
+   - Explore **next steps, financial aid, campus tours, and Kick Start events**.
+
+---
+
+## **Application Steps - BCIT**
+### **Step 1: Choose Your Program**
+- Browse available **programs & courses**.
+- Note **application deadlines, start dates, and program type** (competitive vs. first-qualified).
+
+### **Step 2: Meet Admission Requirements**
+- Check program **prerequisites**.
+- **International applicants:** Credential assessments may be needed via **ICES**.
+- If missing requirements:
+  - Use **midterm grades** (if applicable).
+  - Take **upgrading courses**.
+  - Consider **assessment testing** or **English proficiency equivalencies**.
+
+### **Step 3: Prepare Your Application**
+- First-qualified programs fill quickly; apply **as soon as applications open**.
+
+### **Step 4: Submit Your Application**
+- Applications processed via **BCIT or EducationPlannerBC (EPBC)**.
+- Apply via **myBCIT portal**.
+- Choose up to **two program preferences**.
+
+### **After Applying**
+- BCIT sends **confirmation email with login credentials**.
+- Monitor **application status and emails**.
+- **Prepare financials, plan course schedule, and attend orientation**.
+
+
+
+## **Applied Circular Economy: Zero Waste Buildings, Microcredential (0816CM) - BCIT**
+### **Program Overview**
+- **Type:** **Microcredential** focusing on sustainable construction and circular economy principles.
+- **Delivery:** **Fully online** with optional in-person field trips.
+- **Objective:**  
+  - Train professionals to implement **zero-waste construction** and **decarbonization strategies**.  
+  - Address the **economic loss and carbon emissions** from **construction and demolition waste**.  
+  - Teach **Design for Disassembly (DfD) and Cradle to Cradle (C2C)** principles.
+
+### **Key Learning Areas**
+- **Lifecycle Assessment (LCA) & Material Flow Analysis**  
+- **Deconstruction & Salvage Management**  
+- **Zero-Waste Construction & Circular Design Strategies**  
+- **Regulatory Frameworks & Sustainability Compliance**  
+- **Reuse & Recycling of Building Materials**
+
+### **Required Courses (9.0 Credits)**
+1. **XCIR 7510 - Deconstruction Management (3.0 credits)**  
+   - Techniques for **material recovery and salvage in deconstruction**.  
+   - Best practices for reducing waste in **demolition projects**.
+
+2. **XCIR 7520 - Design for Disassembly (3.0 credits)**  
+   - Implementing **DfD principles** for sustainable building design.  
+   - **Cradle to Cradle (C2C)** methodologies.
+
+3. **XCIR 7530 - Construction Material Flows (3.0 credits)**  
+   - Tracking **construction material usage and recycling paths**.  
+   - Implementing **waste hierarchy & circular economy models**.
+
+### **Admissions & Requirements**
+- **Open to professionals** in construction, building design, or environmental engineering.  
+- **No formal application required**—students email program contact after course completion to receive the microcredential.  
+- **International students:** Eligible **only if studying from outside Canada** or holding a **valid non-study permit**.
+
+### **Costs & Timeline**
+- **Flexible Learning tuition charged per course**.  
+- **Completion timeline:** **Self-paced, up to 5 years**.  
+- **Location:** **Online with optional in-person field trips**.
+
+---
+
+## **Applied Computer Applications (ACA), Associate Certificate (5525ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Office & productivity software training program**.
+- **Delivery:** **Blended (Online + In-Person)**.
+- **Status:** **Under review, not accepting applications**.
+- **Objective:**  
+  - Provide expert-level training in **Windows 11, Microsoft Office (Word, Excel, PowerPoint), and basic IT concepts**.
+  - Includes **optional courses in IT project management, reporting tools (Crystal Reports), and business communication**.
+
+### **Key Learning Areas**
+- **Operating System & File Management (Windows 11)**  
+- **Microsoft Office Suite (Word, Excel, PowerPoint, Access)**  
+- **Web Development Basics**  
+- **Business & Technical Communication**  
+- **IT Project Management & Reporting Tools**
+
+### **Core Courses (13.0 Credits)**
+- **COMP 1002 - Applied Computer Concepts (3.0 credits)**  
+- **COMP 1850 - Introduction to Web Development (3.0 credits)**  
+- **COMP 2364 - Microsoft Excel (3.0 credits)**  
+- **COMP 2369 - Microsoft Word (3.0 credits)**  
+- **COMP 2384 - Microsoft PowerPoint (1.0 credit)**  
+
+### **Elective Courses (Choose 4.5 credits)**
+- **COMP 1288 - IT Project Management Fundamentals (1.5 credits)**  
+- **COMP 1370 - Microsoft Access Fundamentals (1.5 credits)**  
+- **COMP 2252 - SAP Crystal Reports (3.0 credits)**  
+- **COMM 1103 or COMM 1106 - Business & Technical Communication (3.0 credits)**  
+- **XCOM 3840 - Technical Presentations (1.5 credits)**  
+
+### **Admissions & Requirements**
+- **Prerequisite:** **English 12 (or equivalent knowledge in reading, writing, and speaking)**.  
+- **International students:** **Not eligible**.  
+
+### **Costs & Timeline**
+- **Estimated cost:** **$4,000 (varies by electives chosen)**.  
+- **Completion timeline:** **3+ part-time terms**.  
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.
+
+---
+
+## **Applied Computer Science (Database Option), Bachelor of Science (867CBSC) - BCIT**
+### **Program Overview**
+- **Type:** **Specialized Bachelor's Degree in Database Management & Data Analytics**.  
+- **Delivery:** **Full-time (In-person) / Part-time (Blended: Online + In-Person)**.  
+- **Objective:**  
+  - Train students to design, develop, and manage **relational & non-relational databases**.  
+  - Cover advanced **data analytics, warehousing, security, and optimization techniques**.
+
+### **Key Learning Areas**
+- **Database Design & Query Optimization**  
+- **Big Data & Data Warehousing**  
+- **Advanced Algorithms & Data Structures**  
+- **Cloud Computing & Data Engineering**  
+- **Cybersecurity & Database Security**  
+- **Artificial Intelligence & Machine Learning Applications in Databases**  
+
+### **Program Options**
+#### **Full-Time (Cohort Model)**
+- **Duration:** **2 years** (4 terms, 15 weeks each).  
+- **Class schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+- **Co-op Option:** **Competitive, optional placements available**.  
+- **Location:** **Burnaby Campus**.
+
+#### **Part-Time (Flexible Learning)**
+- **Course-by-course registration**.  
+- **Completion timeline:** **Up to 7 years**.  
+- **Evenings & weekends**.  
+- **Blended delivery:** **Online + In-Person (Burnaby & Downtown Campus)**.
+
+### **Core Courses**
+#### **Level 5 (15 weeks)**
+- **COMP 7003 - Information & Network Security**  
+- **COMP 7035 - Operating Systems**  
+- **COMP 7071 - Database Applications Development & Optimization**  
+- **COMP 7082 - Software Engineering**  
+- **MATH 7808 - Calculus for Computing**  
+
+#### **Level 6 (15 weeks)**
+- **COMP 7171 - Data Center Design**  
+- **COMP 8042 - Advanced Algorithms & Data Structures**  
+- **COMP 8071 - Data Warehousing**  
+- **COMP 8082 - Project Management**  
+- **MATH 7908 - Linear Algebra for Computing**  
+
+#### **Level 7 (15 weeks)**
+- **COMP 8085 - Artificial Intelligence**  
+- **COMP 8171 - Database Systems Security**  
+- **COMP 8575 - Data Mining & Analytics**  
+- **COMP 8800 - Major Project 1**  
+- **LIBS 7001 - Critical Reading & Writing**  
+- **LIBS 7002 - Applied Ethics**  
+
+#### **Level 8 (15 weeks)**
+- **COMP 7012 - Interaction Design**  
+- **COMP 8900 - Major Project 2**  
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **60.0 credits of post-secondary education in computing** (equivalent to BCIT CST Diploma).  
+  - **English Proficiency:** **Category 2 (67% in English 12 or equivalent)**.  
+  - **Mathematics & Statistics coursework required**.  
+- **International Students:**  
+  - **Full-time:** Requires a **study permit** and **co-op work permit**.  
+  - **Part-time:** Requires a **valid Canadian status** (not a study permit).
+
+### **Costs & Timeline**
+- **Estimated costs:** **$4,400 per year (domestic), $19,000+ per year (international)**.  
+- **Completion timeline:**  
+  - **Full-time:** **2 years**.  
+  - **Part-time:** **Up to 7 years**.  
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.  
+

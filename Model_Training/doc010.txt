@@ -1,0 +1,44 @@
+
+## **Applied Computing, Master of Science, Full-time (M600MSC) - BCIT**
+### **Program Overview**
+- **Type:** **Graduate-Level Applied Computing Specialization**.
+- **Delivery:** **In-person, Burnaby Campus**.
+- **Objective:**  
+  - Develop **technical leadership & research skills**.
+  - Apply **computational methods across industries**.
+  - Specialize in **AI, Machine Learning, Cybersecurity, Data Science**.
+
+### **Key Learning Areas**
+- **Algorithm Analysis & Optimization**
+- **Cybersecurity & Ethical AI**
+- **Human-Centered Computing & UX**
+- **Data Science & AI Model Development**
+- **Applied Research in Computing**
+
+### **Program Structure**
+- **Duration:** **2 years full-time (4 terms, 15 weeks each)**.
+- **Cohort-based model:** Students progress together for industry networking.
+- **Intake:** **September**.
+
+#### **Year 1: Core Courses**
+- **Algorithm Analysis & Optimization**
+- **Human-Centered Computing**
+- **Applied AI & Machine Learning**
+- **Cybersecurity for Applied Computing**
+- **Applied Research Methods**
+
+#### **Year 2: Specialization Paths**
+- **Thesis Path:** Research-driven approach, recommended for PhD aspirants.
+- **Project & Internship Path:** Industry placement + applied research project.
+
+### **Admissions & Requirements**
+- **Standard Entry:**  
+  - **Bachelor’s degree in Computer Science or Applied Computing (min. GPA 2.8/4.0)**.
+- **Alternate Entry:**  
+  - **Bachelor’s degree in another field (min. GPA 3.0/4.0) + computing experience**.
+  - **Bridging courses may be required**.
+- **International Students:**  
+  - **Study permit required**.
+  - **Internship option requires a co-op work permit**.
+
+---

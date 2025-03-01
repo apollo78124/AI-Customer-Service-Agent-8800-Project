@@ -85,17 +85,180 @@ header {
 
             header .nav_bar .rightyy .user-info {
                 display: flex;
+                position: relative;
             }
 
-                header .nav_bar .rightyy .user-info button.opener {
-                    display: flex;
-                    border: none;
-                    background: transparent;
+                header .nav_bar .rightyy .user-info button {
+                    width: 100%;
+                    border: 1.5px solid var(--DarkGrey);
+                    color: #fff;
+                    box-sizing: border-box;
+                    border-radius: 1px;
+                    background-color: var(--DarkBlue);
+                    background-repeat: no-repeat;
+                    font-size: 16px;
+                    padding: 12px 0;
+                    background-color: #013a81;
+                    /* margin-top: 20px; */
+                }
+
+                    header .nav_bar .rightyy .user-info button.opener {
+                        display: flex;
+                        border: none;
+                        background: transparent;
+                    }
+
+                    header .nav_bar .rightyy .user-info button.login-button {
+                        display: block;
+                        background: #e3e1e1;
+                        border: none;
+                        width: fit-content;
+                        border: 1.5px solid var(--DarkGrey);
+                        color: #fff;
+                        box-sizing: border-box;
+                        border-radius: 1px;
+                        background-color: var(--DarkBlue);
+                        background-repeat: no-repeat;
+                        font-size: 16px;
+                        padding: 12px 0;
+                        background-color: #013a81;
+                        margin-top: 0px;
+                        padding: 13px 20px;
+                    }
+
+                header .nav_bar .rightyy .user-info button {
+                    text-decoration: none;
+                    font-family: 'Catamaran';
+                    font-weight: 700;
+                    letter-spacing: .02em;
+                    font-size: 17px;
+                    border-bottom: 3px solid transparent;
+                    height: fit-content;
+                    line-height: 100%;
+                    cursor: pointer;
+                    padding: 12px 15px;
+                    border-radius: 2px;
                 }
 
                 header .nav_bar .rightyy .user-info .user-dropdown {
                     display: none;
+                    position: absolute;
+                    top: -1px;
+                    right: 0px;
+                    background-color: #FFF;
+                    padding: 20px 30px;
+                    border: 2px solid #b6b6b6;
+                    transition: none;
+                    width: 283px;
                 }
+
+                    header .nav_bar .rightyy .user-info .user-dropdown .head {
+                        display: flex;
+                        flex-direction: row;
+                        align-items: center;
+                        justify-content: space-between;
+                        padding: 10px 0px;
+                        padding-top: 0px;
+                    }
+
+                        header .nav_bar .rightyy .user-info .user-dropdown .head button {
+                            background-color: transparent;
+                            border: none;
+                            color: #be0b0b;
+                            font-size: 20px;
+                            width: 30px;
+                            height: 30px;
+                            line-height: 30px;
+                            margin-top: 0px;
+                            padding: 0px;
+                        }
+
+                    header .nav_bar .rightyy .user-info .user-dropdown button.manage-account {
+                        display: flex;
+                        padding: 16px 20px;
+                        white-space: nowrap;
+                        column-gap: 10px;
+                        align-items: center;
+                    }
+
+                        header .nav_bar .rightyy .user-info .user-dropdown button.manage-account span {
+                            height: fit-content;
+                        }
+
+
+                    header .nav_bar .rightyy .user-info .user-dropdown button.logout {
+                        display: flex;
+                        padding: 16px 20px;
+                        white-space: nowrap;
+                        column-gap: 10px;
+                        align-items: center;
+                    }
+
+                        header .nav_bar .rightyy .user-info .user-dropdown button.logout span {
+                            height: fit-content;
+                        }
+
+                header .nav_bar .rightyy .user-info .loginpopup {
+                    display: none;
+                    position: absolute;
+                    top: -1px;
+                    right: 0px;
+                    background-color: #FFF;
+                    padding: 20px 30px;
+                    border: 2px solid #b6b6b6;
+                    transition: none;
+                }
+
+                    header .nav_bar .rightyy .user-info .loginpopup .head {
+                        display: flex;
+                        flex-direction: row;
+                        align-items: center;
+                        justify-content: space-between;
+                        padding: 10px 0px;
+                        padding-top: 0px;
+                    }
+
+
+                        header .nav_bar .rightyy .user-info .loginpopup .head button {
+                            background-color: transparent;
+                            border: none;
+                            color: #be0b0b;
+                            font-size: 20px;
+                            width: 30px;
+                            height: 30px;
+                            line-height: 30px;
+                            margin-top: 0px;
+                            padding: 0px;
+                        }
+
+                    header .nav_bar .rightyy .user-info .loginpopup input {
+                        background-color: #fff;
+                        border: 1px solid #dddede;
+                        white-space: pre-wrap;
+                        line-height: 120%;
+                        padding-right: 30px;
+                        padding: 8px;
+                        margin-top: 8px;
+                        margin-bottom: 5px;
+                        border: 1px solid #002145;
+                        box-sizing: border-box;
+                        border-radius: 1.5px;
+                        font-size: 18px;
+                    }
+
+                    header .nav_bar .rightyy .user-info .loginpopup button.login {
+                        width: 100%;
+                        border: 1.5px solid var(--DarkGrey);
+                        color: #fff;
+                        box-sizing: border-box;
+                        border-radius: 1px;
+                        background-color: var(--DarkBlue);
+                        background-repeat: no-repeat;
+                        font-size: 16px;
+                        padding: 12px 0;
+                        background-color: #013a81;
+                        margin-top: 20px;
+                    }
 
                 header .nav_bar .rightyy .user-info button.opener {
                     text-decoration: none;

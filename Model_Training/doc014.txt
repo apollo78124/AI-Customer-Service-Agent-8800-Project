@@ -1,0 +1,42 @@
+
+## **Computer Information Systems Administration, Diploma, Full-time (1930DIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time Diploma in IT Systems & Network Administration**.  
+- **Delivery:** **In-person (Burnaby Campus)**.  
+- **Objective:**  
+  - Train students in **network infrastructure, cybersecurity, and IT system management**.  
+  - Provide hands-on experience with **Cisco, Microsoft, Linux, and cloud technologies**.  
+
+### **Key Learning Areas**
+- **Network Configuration & Troubleshooting**  
+- **Windows/Linux Server Administration**  
+- **Cloud Computing & Virtualization (AWS, VMware, Azure)**  
+- **Enterprise Security & Cyber Threat Management**  
+
+### **Program Structure**
+- **Intake:** **September**.  
+- **Duration:** **2 years (4 levels, 140 credits total).**  
+- **Schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+
+### **Core Courses**
+#### **Year 1**
+- **CISA 1310 - Network Essentials**  
+- **CISA 1320 - Desktop Support & Maintenance**  
+- **CISA 1350 - Database Essentials**  
+- **CISA 1360 - Programming for IT Administrators**  
+
+#### **Year 2**
+- **CISA 2310 - IP Routing & Switching**  
+- **CISA 2370 - Network Security Fundamentals**  
+- **CISA 3330 - Deploying Windows Services**  
+- **CISA 3370 - Enterprise Network Security**  
+
+### **Admissions & Requirements**
+- **English 12 (67%) & Math 11 (60%) or equivalent**.  
+- **International Students:** **Eligible with a study permit**.  
+
+### **Career Paths**
+- **Network Administrator (Enterprise IT, Government, Healthcare, Finance)**  
+- **IT Security Analyst (Cybersecurity, Cloud Security, DevSecOps)**  
+- **Systems Engineer (Cloud Infrastructure, Data Centers, Virtualization)**  
+- **Opportunities for Certifications (Cisco CCNA, Microsoft Azure, AWS, Linux RHCSA)**  

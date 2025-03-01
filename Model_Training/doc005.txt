@@ -1,0 +1,73 @@
+
+## **Applied Computer Science (Database Option), Bachelor of Science (867CBSC) - BCIT**
+### **Program Overview**
+- **Type:** **Specialized Bachelor's Degree in Database Management & Data Analytics**.  
+- **Delivery:** **Full-time (In-person) / Part-time (Blended: Online + In-Person)**.  
+- **Objective:**  
+  - Train students to design, develop, and manage **relational & non-relational databases**.  
+  - Cover advanced **data analytics, warehousing, security, and optimization techniques**.
+
+### **Key Learning Areas**
+- **Database Design & Query Optimization**  
+- **Big Data & Data Warehousing**  
+- **Advanced Algorithms & Data Structures**  
+- **Cloud Computing & Data Engineering**  
+- **Cybersecurity & Database Security**  
+- **Artificial Intelligence & Machine Learning Applications in Databases**  
+
+### **Program Options**
+#### **Full-Time (Cohort Model)**
+- **Duration:** **2 years** (4 terms, 15 weeks each).  
+- **Class schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+- **Co-op Option:** **Competitive, optional placements available**.  
+- **Location:** **Burnaby Campus**.
+
+#### **Part-Time (Flexible Learning)**
+- **Course-by-course registration**.  
+- **Completion timeline:** **Up to 7 years**.  
+- **Evenings & weekends**.  
+- **Blended delivery:** **Online + In-Person (Burnaby & Downtown Campus)**.
+
+### **Core Courses**
+#### **Level 5 (15 weeks)**
+- **COMP 7003 - Information & Network Security**  
+- **COMP 7035 - Operating Systems**  
+- **COMP 7071 - Database Applications Development & Optimization**  
+- **COMP 7082 - Software Engineering**  
+- **MATH 7808 - Calculus for Computing**  
+
+#### **Level 6 (15 weeks)**
+- **COMP 7171 - Data Center Design**  
+- **COMP 8042 - Advanced Algorithms & Data Structures**  
+- **COMP 8071 - Data Warehousing**  
+- **COMP 8082 - Project Management**  
+- **MATH 7908 - Linear Algebra for Computing**  
+
+#### **Level 7 (15 weeks)**
+- **COMP 8085 - Artificial Intelligence**  
+- **COMP 8171 - Database Systems Security**  
+- **COMP 8575 - Data Mining & Analytics**  
+- **COMP 8800 - Major Project 1**  
+- **LIBS 7001 - Critical Reading & Writing**  
+- **LIBS 7002 - Applied Ethics**  
+
+#### **Level 8 (15 weeks)**
+- **COMP 7012 - Interaction Design**  
+- **COMP 8900 - Major Project 2**  
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **60.0 credits of post-secondary education in computing** (equivalent to BCIT CST Diploma).  
+  - **English Proficiency:** **Category 2 (67% in English 12 or equivalent)**.  
+  - **Mathematics & Statistics coursework required**.  
+- **International Students:**  
+  - **Full-time:** Requires a **study permit** and **co-op work permit**.  
+  - **Part-time:** Requires a **valid Canadian status** (not a study permit).
+
+### **Costs & Timeline**
+- **Estimated costs:** **$4,400 per year (domestic), $19,000+ per year (international)**.  
+- **Completion timeline:**  
+  - **Full-time:** **2 years**.  
+  - **Part-time:** **Up to 7 years**.  
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.  
+

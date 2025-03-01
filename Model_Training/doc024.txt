@@ -1,0 +1,43 @@
+
+## **Applied Network Administration and Design, Associate Certificate, Part-time (5515ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Network Administration & Security Specialization**.
+- **Delivery:** **In-person (Burnaby & Downtown Campus)**.
+- **Objective:**  
+  - Train students in **designing, managing, and securing enterprise networks**.
+  - Cover **Windows/Linux server administration, virtualization, and cloud security**.
+
+### **Key Learning Areas**
+- **Windows & Linux Server Administration**
+- **Network Security & Cybersecurity Foundations**
+- **Cloud & Virtualization Technologies**
+- **Scripting for Network Automation**
+- **Disaster Recovery & IT Governance**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **2-4 years**.
+- **Schedule:** **Evening & weekend courses**.
+
+### **Core Courses**
+- **COMP 1002 - Applied Computer Concepts (3.0 credits)**
+- **COMP 2629 - Enterprise Networking Fundamentals (4.0 credits)**
+- **COMP 2766 - Introduction to Linux (4.0 credits)**
+- **COMP 3677 - Windows Server Administration 1 (1.5 credits)**
+- **COMP 3681 - Windows Server Administration 2 (1.5 credits)**
+- **COMP 3704 - IT Security Fundamentals (3.0 credits)**
+- **COMP 4912 - Applied Virtual Networks (3.0 credits)**
+
+### **Elective Courses (Choose 3.0 Credits)**
+- **COMP 2767 - Linux Administration**
+- **COMP 3771 - PowerShell Scripting**
+- **COMP 4704 - Applied Network Security**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Prior IT experience or post-secondary education in computing**.  
+  - **Mathematics & English proficiency (Grade 12 or equivalent)**.  
+- **International Students:**  
+  - **Not available for study permit holders**.
+
+---

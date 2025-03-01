@@ -1,0 +1,40 @@
+
+## **Computer Systems, Certificate, Part-time (5500CERT) - BCIT**
+### **Program Overview**
+- **Type:** **Part-time Certificate in Computing & Software Development**.  
+- **Delivery:** **Blended (Evening & Weekend Classes)**.  
+- **Objective:**  
+  - Provides foundational skills in **programming, web development, and IT infrastructure**.  
+  - Prepares students for **CST Diploma (Direct Entry Level 3 option available)**.  
+
+### **Key Learning Areas**
+- **Programming in Python, Java, and C**
+- **Database & SQL**
+- **Web Development (HTML, CSS, JavaScript)**
+- **Systems Analysis & Business Communication**
+- **Computer Architecture & Networking Basics**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.  
+- **Completion timeline:** **2-3 years (Flexible Learning).**  
+
+### **Core Courses**
+- **COMP 1516 - Programming Fundamentals (Python)**
+- **COMP 1630 - Database Design & SQL**
+- **COMP 2121 - Discrete Mathematics**
+- **COMP 2511 - Procedural Programming (C)**
+- **COMP 2831 - Business Analysis & Systems Design**
+- **COMP 2833 - Agile Scrum Methods**
+- **COMP 2825 - Computer Architecture**
+
+### **Admissions & Requirements**
+- **English 12 & Math 12 or equivalent.**  
+- **International Students:** **Eligible for part-time study in Canada**.  
+
+### **Career Paths**
+- **Entry-level Software Developer**
+- **Junior IT Administrator**
+- **Database & Web Developer**
+- **Laddering to CST Diploma or BScACS at BCIT**  
+
+---

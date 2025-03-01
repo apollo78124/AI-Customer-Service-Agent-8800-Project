@@ -1,0 +1,36 @@
+---
+
+## **Building Controls & Energy Management, Advanced Certificate, Part-time (5095ADCERT) - BCIT**
+### **Program Overview**
+- **Type:** **Advanced Certificate in Energy & Building Automation**.
+- **Delivery:** **Online (Part-time)**.
+- **Objective:**  
+  - Teach professionals how to **optimize energy efficiency through building control systems**.
+  - Develop expertise in **HVAC, automation, commissioning, and building analytics**.
+
+### **Key Learning Areas**
+- **Building Automation & Energy Management Systems**  
+- **HVAC Control Optimization**  
+- **Building Commissioning & Performance Analytics**  
+- **Energy Codes, Regulations & Compliance**  
+- **IT Integration & Smart Building Technologies**  
+
+### **Core Courses**
+- **CESA 5100 - Energy Basics**
+- **CESA 5320 - Energy Systems & Controls**
+- **CESA 5420 - Building System Integration & Analytics**
+- **CESA 5500 - Codes and Standards**
+- **CESA 5620 - Commissioning & Optimization**
+- **CESA 5700 - Decision Making in Energy Management**
+- **CESA 5800 - Change Management in Smart Buildings**
+- **CESA 5820 - Controls & Operations Management**
+- **CESA 5920 - Final Controls Project**
+
+### **Admissions & Requirements**
+- **Pre-entry Assessment Form required**.  
+- **Math 11 & English 12 (67%) or equivalent**.  
+- **Relevant diploma, degree, or Red Seal trade certification**.  
+- **Industry experience in building operations or facilities management preferred**.  
+- **International Students:** **Eligible for online completion (not for study permit holders).**
+
+---

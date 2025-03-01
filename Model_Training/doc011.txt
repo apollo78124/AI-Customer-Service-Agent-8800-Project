@@ -1,0 +1,50 @@
+
+## **Applied Data Analytics, Certificate, Part-time (5512CERT) - BCIT**
+### **Program Overview**
+- **Type:** **Technical Data Analytics Training**.
+- **Delivery:** **Blended (Online & On-Campus)**.
+- **Objective:**  
+  - Develop expertise in **data modeling, SQL, Python, Excel, Business Intelligence (BI), and visualization**.
+  - Prepare students for **data-driven decision-making roles**.
+
+### **Key Learning Areas**
+- **Database Management & SQL**
+- **Python for Data Analytics**
+- **Business Intelligence (BI) Tools (Power BI, Tableau)**
+- **Statistics & Data Quality Improvement**
+- **IT Security & Legal Considerations**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **2-5 years**.
+- **Schedule:** **Weekday evenings & weekends**.
+
+### **Core Courses**
+#### **Tier 1: Foundations**
+- **COMP 1630 - Relational Database Design & SQL**
+- **COMP 2364 - Microsoft Excel for Data Analysis**
+- **MATH 1060 - Statistics for Data Analytics**
+
+#### **Tier 2: Core Data Skills**
+- **COMP 2853 - Python for Data Analysis**
+- **COMP 2831 - Business Analysis & Systems Design**
+- **COMP 3839 - Data Quality Improvement**
+- **COMP 2156 - Microsoft Power BI Fundamentals**
+
+#### **Tier 3: Advanced Topics**
+- **COMP 3704 - Applied IT Security**
+- **COMP 2256 - Visual Analytics with Tableau**
+- **MATH 3060 - Advanced Statistical Techniques**
+
+#### **Tier 4: Specialization & Capstone**
+- **COMP 4254 - Advanced Topics in Data Analytics**
+- **BLAW 3205 - Internet & IT Law**
+- **Final Capstone Project**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Basic computing & Windows skills (COMP 1002 recommended)**.  
+  - **Mathematics proficiency (pre-calculus or MATH 0060 refresher suggested)**.  
+- **International Students:**  
+  - **Study permit required**.
+

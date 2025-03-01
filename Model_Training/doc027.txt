@@ -1,0 +1,79 @@
+
+## **Biomedical Engineering Technology, Diploma, Full-time (5063DIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time, Two-Year Diploma in Biomedical Engineering Technology**.
+- **Delivery:** **In-person (Burnaby Campus)**.
+- **Objective:**  
+  - Train students in **medical device technology, electronics, and biomedical engineering applications**.
+  - Develop skills for **maintaining and designing medical equipment used in hospitals and clinics**.
+
+### **Key Learning Areas**
+- **Medical Device Technology & Patient Monitoring Systems**  
+- **Biomedical Instrumentation & Medical Imaging Systems**  
+- **Electronics, Microcontrollers & Embedded Systems**  
+- **Health Informatics & Networked Medical Systems**  
+- **Regulatory Compliance & Medical Equipment Standards**  
+
+### **Program Structure**
+- **Intake:** **September**.
+- **Duration:** **2 years (Four 15-week terms + Practicum)**.
+- **Schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.
+- **Practicum:** **5 weeks of industry training in a hospital, research facility, or medical equipment company**.
+
+### **Core Courses**
+#### **Level 1 (15 weeks)**
+- **BHSC 1101 - Anatomy and Physiology 1**
+- **BMET 1100 - Electronics Principles and Practice 1**
+- **COMP 1120 - Introduction to Computer Architecture**
+- **MATH 1781 - Technical Math for Biomedical Engineering**
+- **PHYS 1178 - Physics for Biomedical Engineering Technology**
+- **COMM 1178 - Technical Communication 1**
+
+#### **Level 2 (15 weeks)**
+- **BMET 2200 - Electronics Principles and Practice 2**
+- **BMET 2215 - Digital Electronics**
+- **BMET 2205 - Biomedical Computer Networks & Data Communication**
+- **MATH 2782 - Calculus for Biomedical Engineering**
+- **COMP 3152 - Software Engineering for Biomedical Applications**
+- **BHSC 2201 - Anatomy and Physiology 2**
+- **COMM 2278 - Technical Communication 2**
+
+#### **Level 3 (15 weeks)**
+- **BMET 3300 - Electronics Principles and Practice 3**
+- **BMET 3301 - Biomedical Devices Technology 1**
+- **BMET 3305 - Computer Network Applications in Healthcare**
+- **BMET 3315 - Microcontrollers & Embedded Systems**
+- **CHEM 1205 - General and Organic Chemistry for Biomedical Engineering**
+
+#### **Level 4 (15 weeks)**
+- **BMET 4401 - Biomedical Devices Technology 2**
+- **BMET 4402 - Biomedical Engineering Technology Capstone Project**
+- **BMET 4403 - Medical Imaging Systems**
+- **CHEM 2305 - Biochemistry & Instrumental Analysis**
+- **MATH 3782 - Statistics for Biomedical Engineering**
+
+#### **Level 4B (5 weeks)**
+- **BMET 4420 - Practicum & Industry Training (Mandatory)**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **English 12 (67%) or equivalent**.  
+  - **Math 12 (Pre-Calculus, Calculus, or Technical Math, 67%)**.  
+  - **Physics 12 (67%) or equivalent**.  
+  - **Chemistry 11 (67%) or equivalent**.  
+- **Additional Requirements:**  
+  - **Criminal Record Check**.  
+  - **Immunization Review (including COVID-19 vaccination)**.  
+  - **Mandatory Program Admission Forum Attendance**.  
+- **International Students:**  
+  - **Study permit required**.  
+  - **Co-op work permit required for practicum**.
+
+### **Career Paths**
+- **Biomedical Engineering Technologist (Hospitals, Clinics, Labs)**  
+- **Medical Equipment Technician (Manufacturers, Suppliers, Service Companies)**  
+- **Medical Device Research & Development**  
+- **Clinical Engineering & Healthcare Technology Management**  
+- **Regulatory Compliance & Medical Device Standards Analyst**  
+
+---

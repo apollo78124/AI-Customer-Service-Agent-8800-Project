@@ -1,7 +1,5 @@
-﻿
-@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model AI_Customer_Service_Lee_8900.Models.ViewModel1
+
 
 <!doctype html>
 <html lang="en">
@@ -42,19 +40,43 @@
                     </a>
 
                     <div class="user-info">
-                        <button class="opener">
-                            <img src="~/files/32147046.png"/>
-                            <span>David Lee</span>
-                        </button>
+
+                        @if (Model.userId < 0) {
+                            <button class="login-button" onclick="openLoginPopup()">
+                                Login
+                            </button>
+                        } else {
+                            <button class="opener" onclick="openUserDropdown()">
+                                <img src="~/files/32147046.png" />
+                                <span>@Model.username</span>
+                            </button>
+                        }
                         <div class="user-dropdown">
+                            <div class="head">
+                                <h3>User: @Model.username</h3>
+                                <button onclick="closeUserDropdown()">X</button>
+                            </div>
                             <button class="manage-account">
                                 <img src="~/files/manage.svg" />
                                 <span>Manage Account</span>
                             </button>
-                            <button class="logout">
+                            <button class="logout" onclick="logout()">
                                 <img src="~/files/logout.svg" />
                                 <span>Logout</span>
                             </button>
+                        </div>
+                        <div class="loginpopup">
+                            <div class="head">
+                                <h3>Login</h3>
+                                <button onclick="closeLoginPopup()">X</button>
+                            </div>
+                            <div class="input-wrapper">
+                                <input class="username" name="username" type="email" placeholder="Enter Email"/>
+                            </div>
+                            <div class="input-wrapper">
+                                <input class="password" name="password" type="password" placeholder="Enter Password" />
+                            </div>
+                            <button class="login" onclick="login(this)">Login</button>
                         </div>
                     </div>
                 </div>

@@ -1,0 +1,45 @@
+
+## **Computer Systems Technology, Diploma, Full-time (5500DIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time Diploma in Software Development & Computer Systems**.  
+- **Delivery:** **In-person (Burnaby & Downtown Campus)**.  
+- **Objective:**  
+  - Trains students in **software engineering, system administration, and networking**.  
+  - Offers **specializations in Artificial Intelligence, Cloud Computing, Web & Mobile Development, and Cybersecurity**.  
+  - Provides **co-op education and industry projects**.
+
+### **Key Learning Areas**
+- **Software Development & Programming (Java, C, C++, Python)**
+- **Data Structures & Algorithms**
+- **Cloud Computing & DevOps**
+- **Database & Full-Stack Web Development**
+- **Networking & Cybersecurity**
+- **Machine Learning & AI Applications**
+
+### **Program Structure**
+- **Intakes:** **September & January**.  
+- **Duration:** **2 years (4 levels, 120 credits total)**.  
+- **Co-op & Industry Projects:** **Available for work experience**.  
+
+### **Specializations (Second Year)**
+- **Artificial Intelligence & Machine Learning**
+- **Cloud Computing & DevOps**
+- **Web & Mobile Development**
+- **Cybersecurity & Network Engineering**
+- **Predictive Analytics**
+- **Database & Full-Stack Development**
+
+### **Admissions & Requirements**
+- **English 12 (67%) & Pre-Calculus 12 (67%) or equivalent**.  
+- **Preferred:** **Computer Science 11 or 12**.  
+- **International Students:** **Eligible with a study permit**.  
+
+### **Career Paths**
+- **Software Engineer**
+- **Data Scientist & AI Engineer**
+- **Network Security Engineer**
+- **Cloud & DevOps Engineer**
+- **Database Administrator**
+- **Game Developer & UI/UX Specialist**  
+
+---

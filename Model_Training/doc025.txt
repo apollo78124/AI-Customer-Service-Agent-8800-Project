@@ -1,0 +1,44 @@
+
+## **Applied Web Development, Associate Certificate, Part-time (6957ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Front-End & Back-End Web Development Specialization**.
+- **Delivery:** **Blended (Online & On-Campus)**.
+- **Objective:**  
+  - Train students to develop **fully functional web applications**.
+  - Cover **HTML, CSS, JavaScript, UX/UI, and server-side programming**.
+
+### **Key Learning Areas**
+- **HTML, CSS, & JavaScript Fundamentals**
+- **Full-Stack Development (Node.js, React, PHP)**
+- **Database-Driven Web Applications**
+- **UX/UI Design & Business Analysis**
+- **Front-End & Back-End Web Technologies**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **1-3 years**.
+- **Schedule:** **Evening & weekend courses**.
+
+### **Core Courses**
+- **COMP 1630 - Relational Database & SQL (5.0 credits)**
+- **COMP 1850 - Introduction to Web Development (3.0 credits)**
+- **COMP 2132 - JavaScript for Web Development (3.0 credits)**
+- **COMP 2831 - Business Analysis & Systems Design (4.0 credits)**
+
+### **Elective Courses (Choose 9.0 Credits)**
+- **COMP 1011 - UX/UI Development**
+- **COMP 2052 - Android & Mobile App Development**
+- **COMP 2909 - Front-End with Angular & Vue.js**
+- **COMP 3012 - Back-End with Node.js**
+- **COMP 3013 - Front-End with React.js**
+- **COMP 3015 - PHP Web Application Development**
+- **COMP 4669 - Advanced PHP Web Applications**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Basic computing knowledge (COMP 1002 recommended)**.  
+  - **Mathematics & English proficiency (Grade 12 or equivalent)**.  
+- **International Students:**  
+  - **Not available for study permit holders**.
+
+---

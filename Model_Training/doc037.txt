@@ -1,0 +1,42 @@
+---
+
+## **Forensic Investigation (Digital Forensics and Cybersecurity Option), Bachelor of Technology, Full-time/Part-time (847CBTECH) - BCIT**
+### **Program Overview**
+- **Type:** **Bachelor of Technology in Digital Forensics & Cybersecurity**  
+- **Delivery:** **Full-time (Downtown Campus) & Part-time (Online & Blended)**  
+- **Objective:**  
+  - Prepares students for **cybercrime investigations, digital forensics, and IT security roles**  
+  - Teaches **expert witness testimony, cybersecurity threats, and digital evidence recovery**  
+
+### **Key Learning Areas**
+- **Cybersecurity Threats & Incident Response**  
+- **Digital Forensics & Evidence Analysis**  
+- **Network Security & Vulnerability Assessments**  
+- **Mobile & Cloud Forensics**  
+
+### **Program Structure**
+- **Intakes:** **January & September (Full-time), January, April, September (Part-time)**  
+- **Completion timeline:** **2 years (Full-time) or up to 7 years (Part-time)**  
+- **Total Credits:** **62.0**  
+
+### **Core Courses**
+- **FSCT 7509 - Introduction to Digital Forensics & Evidence Imaging (3.0 credits)**  
+- **FSCT 7511 - Cybersecurity Foundations (3.0 credits)**  
+- **FSCT 7512 - Digital Forensics in the Cloud (3.0 credits)**  
+- **FSCT 8500 - Mobile Forensics (3.0 credits)**  
+- **FSCT 8513 - Digital Forensics 1 (3.0 credits)**  
+- **FSCT 8560 - Network Security 2 (3.0 credits)**  
+- **FSCT 8590 - Network Exploits & Vulnerabilities (3.0 credits)**  
+
+### **Admissions & Requirements**
+- **Diploma or Bachelor's degree in Computing, IT, or Cybersecurity**  
+- **Criminal Record Check (CRC) required**  
+- **International Students:** **Eligible with a study permit (Full-time option only)**  
+
+### **Career Paths**
+- **Cybersecurity Analyst**  
+- **Digital Forensic Examiner**  
+- **Cybercrime Investigator**  
+- **Network Security Specialist**  
+
+---

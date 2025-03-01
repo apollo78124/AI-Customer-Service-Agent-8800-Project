@@ -1,0 +1,134 @@
+
+## **Advanced Java Development, Associate Certificate (6445ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Advanced-level** software development program.
+- **Delivery:** **Blended** (online & in-person).
+- **Prerequisite:** **Applied Software Development (ASD) Associate Certificate** or equivalent post-secondary education.
+- **Program Status:** **Under review, currently not accepting applications**.
+- **Intended Audience:**
+  - Software developers with prior **education and experience**.
+  - Individuals seeking **advanced Java and web application development** knowledge.
+
+### **Key Learning Areas**
+- **Advanced Java Web Applications**
+- **Object-Oriented Analysis and Design (OOAD)**
+- **Cloud Development and DevOps**
+- **Back-End & Front-End Java Development**
+- **Mobile Development (Android in Java)**
+- **Agile & IT Project Management**
+
+### **Core Courses (11.0 Credits)**
+- **COMP 3601 - Application Development with Java (4.0 credits)**
+- **COMP 3833 - Object-Oriented Analysis & Design (3.0 credits)**
+- **COMP 4601 - Advanced Java Web Development (4.0 credits)**
+
+### **Elective Courses (Choose 6.0 credits)**
+- **COMP 1288 - IT Project Management Fundamentals**
+- **COMP 2833 - Agile Scrum Methods**
+- **COMP 2909 - Front-End Web Dev (Angular & Vue.js)**
+- **COMP 3012 - Back-End Web Dev (Node.js)**
+- **COMP 3013 - Front-End Web Dev (React.js)**
+- **COMP 3215 - AWS Academy Cloud Architecting**
+- **COMP 3617 - Android & Mobile Apps in Java**
+- **COMP 4016 - Applied DevOps with Kubernetes**
+
+### **Admissions & Prerequisites**
+- **English Proficiency:** **Category 2** - English Studies 12 (67%) or equivalent.
+- **Not available to international students**.
+- **Requires prior Java, HTML5, CSS3, and JavaScript knowledge**.
+
+### **Costs & Timeline**
+- **Total cost:** Approx. **$5,000** (AJD alone), **$9,000** if combined with ASD.
+- **Completion timeline:** **4-5 part-time terms (15+ months)**.
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.
+
+---
+
+## **Agile Development, Associate Certificate (5530ACERT) - BCIT**
+### **Program Overview**
+- **Type:** Agile project management & software development training.
+- **Delivery:** **Blended (partially online, partially in-person)**.
+- **Prerequisite:** **COMP 1002 or equivalent knowledge**.
+- **Intended Audience:**
+  - Professionals in **IT, business analysis, software development**.
+  - Those interested in **Agile frameworks** like **Scrum, Kanban, Lean**.
+
+### **Key Learning Areas**
+- **Data modeling, UML & Business Process Management (BPM)**
+- **Agile frameworks: Scrum, Kanban, Lean Development**
+- **Business Analysis & Systems Design**
+- **Cost-benefit analysis & feasibility modeling**
+- **Technical writing & presentations**
+- **Team collaboration & Agile team management**
+
+### **Core Courses (18.5 Credits)**
+- **COMP 1630 - Relational Database Design & SQL (5.0 credits)**
+- **COMP 2831 - Business Analysis & Systems Design (4.0 credits)**
+- **COMP 2833 - Agile Scrum Methods (4.0 credits)**
+- **COMP 2836 - Agile Product Owner (4.0 credits)**
+
+### **Elective Courses (Choose 1.5 credits)**
+- **COMP 1288 - IT Project Management Fundamentals**
+- **XCOM 3840 - Technical Presentations**
+
+### **Certifications Prepared For**
+- **Professional Scrum Master™ (PSM 1)**
+- **Certified Scrum Product Owner® (PSPO1)**
+
+### **Admissions & Requirements**
+- **Requires previous post-secondary education & work experience**.
+- **Not available to international students**.
+- **English Proficiency:** **Category 2 (67%) or equivalent**.
+
+### **Costs & Timeline**
+- **Total cost:** Approx. **$3,500**.
+- **Completion timeline:** **Minimum 1 year (3-4 part-time terms)**.
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.
+
+---
+
+## **After You Apply - BCIT**
+### **Post-Application Steps**
+1. **Access myBCIT**  
+   - Receive BCIT ID & login instructions.
+   - Get access to the **Welcome to BCIT e-letter**.
+  
+2. **Monitor & Upload Documents in myBCIT**  
+   - Upload transcripts & supporting documents.
+   - Check **application status** updates.
+  
+3. **Wait for an Admission Decision**  
+   - Timeline depends on **program type, application completeness, and document review**.
+  
+4. **Prepare to Start**  
+   - Explore **next steps, financial aid, campus tours, and Kick Start events**.
+
+---
+
+## **Application Steps - BCIT**
+### **Step 1: Choose Your Program**
+- Browse available **programs & courses**.
+- Note **application deadlines, start dates, and program type** (competitive vs. first-qualified).
+
+### **Step 2: Meet Admission Requirements**
+- Check program **prerequisites**.
+- **International applicants:** Credential assessments may be needed via **ICES**.
+- If missing requirements:
+  - Use **midterm grades** (if applicable).
+  - Take **upgrading courses**.
+  - Consider **assessment testing** or **English proficiency equivalencies**.
+
+### **Step 3: Prepare Your Application**
+- First-qualified programs fill quickly; apply **as soon as applications open**.
+
+### **Step 4: Submit Your Application**
+- Applications processed via **BCIT or EducationPlannerBC (EPBC)**.
+- Apply via **myBCIT portal**.
+- Choose up to **two program preferences**.
+
+### **After Applying**
+- BCIT sends **confirmation email with login credentials**.
+- Monitor **application status and emails**.
+- **Prepare financials, plan course schedule, and attend orientation**.
+
+

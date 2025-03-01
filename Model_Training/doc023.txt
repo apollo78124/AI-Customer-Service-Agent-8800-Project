@@ -1,0 +1,45 @@
+
+## **Applied Database Administration and Design, Associate Certificate, Part-time (6994ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Database Administration & Design Specialization**.
+- **Delivery:** **Blended (Online & On-Campus)**.
+- **Objective:**  
+  - Teach students how to **design, manage, and optimize databases**.
+  - Cover **SQL programming, data modeling, database security, and business analysis**.
+
+### **Key Learning Areas**
+- **SQL Database Design & Optimization**
+- **Data Modeling & Relational Databases**
+- **Server Administration & Data Quality**
+- **Governance, Access Control & Data Security**
+- **Cloud-Based Business Intelligence Tools (Azure, SQL Server)**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **2-5 years**.
+- **Schedule:** **Weekday evenings & weekends**.
+
+### **Core Courses**
+- **COMP 1630 - Relational Database Design & SQL (5.0 credits)**
+- **COMP 2831 - Business Analysis & Systems Design (4.0 credits)**
+- **COMP 3677 - Microsoft Server Administration 1 (1.5 credits)**
+- **COMP 3680 - Microsoft SQL Server Administration 2 (1.5 credits)**
+- **COMP 3771 - PowerShell Scripting for Database Admins (3.0 credits)**
+- **COMP 3839 - Data Quality Improvement (1.5 credits)**
+
+### **Elective Courses (Choose 7.5 Credits)**
+- **COMP 1288 - IT Project Management**
+- **COMP 2156 - Microsoft Power BI**
+- **COMP 2252 - SAP Crystal Reports**
+- **COMP 2256 - Tableau for Data Analytics**
+- **COMP 3678 - SQL Server Development**
+- **COMP 3679 - Azure SQL & Cloud-Based Analytics**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **Basic computing & SQL knowledge (COMP 1002 recommended)**.  
+  - **Mathematics proficiency (Grade 12 or equivalent)**.  
+- **International Students:**  
+  - **Not available for study permit holders**.
+
+---

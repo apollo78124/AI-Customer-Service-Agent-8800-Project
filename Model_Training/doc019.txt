@@ -1,0 +1,57 @@
+
+## **Computer Information Technology, Diploma, Full-time (5540DIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time Diploma in IT Systems & Software Development**.
+- **Delivery:** **In-person (Downtown Campus, BCIT TEC Hub)**.
+- **Objective:**  
+  - Provides comprehensive training in **IT infrastructure, networking, web development, and software programming**.
+  - Equips students with **hands-on experience in managing IT systems and application development**.
+  - Offers **co-op and industry-sponsored projects**.
+
+### **Key Learning Areas**
+- **IT Infrastructure & Networking**
+- **Database Management & SQL**
+- **Web & Mobile Application Development**
+- **Agile Software Development & UX/UI**
+- **Windows & Linux System Administration**
+- **Cloud Computing & DevOps**
+
+### **Program Structure**
+- **Intakes:** **September & January**.  
+- **Duration:** **2 years (4 levels, 120 credits total)**.  
+- **Schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+- **Co-op & Practicum:** **Industry placements available (competitive entry).**  
+
+### **Core Courses**
+#### **Year 1 (Foundation)**
+- **ACIT 1420 - Introduction to Systems Administration**
+- **ACIT 1515 - Scripting for IT (Python, PowerShell)**
+- **ACIT 1620 - Fundamental Web Technologies**
+- **ACIT 1630 - Database Systems & SQL**
+- **COMM 1116 - Business Communications**
+- **MATH 1310 - Technical Math for IT**
+- **ORGB 1100 - Organizational Behavior**
+
+#### **Year 2 (Specialization & Industry Application)**
+- **ACIT 2420 - Linux System Administration**
+- **ACIT 2515 - Object-Oriented Programming (Java)**
+- **ACIT 2520 - Web Application Development**
+- **ACIT 2620 - Enterprise Networking**
+- **ACIT 2811 - UX/UI Development**
+- **ACIT 2900 - IT Projects Practicum**
+- **ACIT 4630 - Cybersecurity & Information Assurance**
+- **ACIT 4640 - Network & System Provisioning**
+
+### **Admissions & Requirements**
+- **English 12 (67%) & Math 11 (60%) or equivalent**.  
+- **International Students:** **Eligible with a study permit**.  
+
+### **Career Paths**
+- **Network Administrator**
+- **Systems Analyst**
+- **Cloud Engineer**
+- **IT Security Specialist**
+- **Web & Mobile Developer**
+- **Opportunities for Industry Certifications (CCNA, AWS, Azure, Linux, RHCSA)**  
+
+---

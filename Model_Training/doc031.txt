@@ -1,0 +1,56 @@
+
+## **Business Information Technology Management (Analytics Data Management Option), Diploma, Full-time (623CDIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time Diploma in Business IT & Data Analytics**.
+- **Delivery:** **In-person (Burnaby Campus)**.
+- **Objective:**  
+  - Provide expertise in **data governance, quality management, and data integration**.
+  - Train students to **transform raw data into business insights** for analytics and decision-making.
+
+### **Key Learning Areas**
+- **Data Governance & Security**  
+- **Data Quality & Integration Techniques**  
+- **Business Intelligence & Predictive Analytics**  
+- **Cloud Computing for Business**  
+- **Management Information Systems (MIS)**  
+
+### **Program Structure**
+- **Intake:** **September**.  
+- **Duration:** **2 years (4 levels, 115.5 total credits)**.  
+- **Schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+
+### **Core Courses**
+#### **Level 3 (Data Analytics Foundations)**
+- **BABI 3000 - Data Quality Approaches for Business**
+- **BABI 3005 - Data Governance for Business Analytics**
+- **BSYS 3000 - Cloud Business Development 1**
+- **BSYS 3205 - Business Intelligence 1**
+- **BSYS 3355 - Management Information Systems**
+- **BUSA 4850 - Consulting Skills & Problem Solving**
+- **FMGT 3221 - Management Accounting Administration**
+- **OPMT 3301 - Quantitative Methods for Business**
+
+#### **Level 4 (Advanced Data Management)**
+- **BABI 4000 - Applied Data Management for Analytics**
+- **BABI 4005 - Data Quality Management with Python**
+- **BLAW 3600 - Computers and the Law**
+- **BSYS 4000 - Cloud Business Development 2**
+- **BSYS 4905 - Directed Studies (Capstone Project)**
+- **BUSA 4800 - Management Policy**
+- **FMGT 4530 - Enterprise Finance**
+- **OPMT 4170 - Applied Project Management**
+
+### **Admissions & Requirements**
+- **First-year completion required (common BITMAN entry)**.  
+- **Laptop required (Windows 10 or newer, BYOD policy)**.  
+- **English 12 & Math 12 (67% min.) or equivalent**.  
+- **International Students:** **Study permit required**.
+
+### **Career Paths**
+- **Business Intelligence Analyst**  
+- **Data Governance Analyst**  
+- **Data Quality Manager**  
+- **Data Architect & Database Administrator**  
+- **Cloud Data Integration Specialist**  
+
+---

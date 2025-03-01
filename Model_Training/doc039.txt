@@ -1,0 +1,35 @@
+## **Cybersecurity Operations, Microcredential, Part-time (0832CM) - BCIT**
+### **Program Overview**
+- **Type:** **Cybersecurity Operations Microcredential**.  
+- **Delivery:** **Fully Online (Part-time)**.  
+- **Objective:**  
+  - Introduces students to **security operations and incident response**.  
+  - Prepares for roles in a **Security Operations Centre (SOC) as a Security Analyst or Incident Responder**.  
+
+### **Key Learning Areas**
+- **Network Attack Detection & Analysis**  
+- **Cybersecurity Threats & Risk Mitigation**  
+- **Incident Response Planning & Management**  
+- **Cybersecurity Data Analytics & Forensics**  
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.  
+- **Completion timeline:** **Flexible, self-paced**.  
+
+### **Core Courses**
+- **XINC 2110 - Fundamentals of System and Network Attack Surfaces (2.0 credits)**
+- **XINC 2120 - Fundamentals of Cybersecurity Threats and Attacks (1.0 credit)**
+- **XINC 2130 - Fundamentals of Cybersecurity Network Defence (1.0 credit)**
+- **XINC 2140 - Fundamentals of Cybersecurity Data Analysis (2.0 credits)**  
+
+### **Admissions & Requirements**
+- **Recommended:** Prior IT education or industry certification.  
+- **International Students:** Eligible **only if studying from outside Canada (not for study permit holders)**.  
+
+### **Career Paths**
+- **Security Analyst (SOC Analyst)**
+- **Cyber Incident Responder**
+- **Network Security Engineer**
+- **Cyber Threat Intelligence Specialist**  
+
+---

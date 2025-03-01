@@ -1,0 +1,45 @@
+
+## **Digital Design and Development, Diploma, Full-time (6515DIPMA) - BCIT**
+### **Program Overview**
+- **Type:** **Full-time Diploma in Digital Media & Web Development**  
+- **Delivery:** **Blended (On-campus & Online)**  
+- **Objective:**  
+  - Trains students in **UI/UX, front-end web development, digital marketing, and multimedia content creation**  
+  - Covers **designing, developing, and marketing digital applications across various platforms**  
+
+### **Key Learning Areas**
+- **UI/UX Design & Prototyping**  
+- **Frontend & Full-Stack Web Development**  
+- **Motion Graphics & Video Production**  
+- **Digital Branding & Marketing Strategies**  
+- **Game & Interactive Content Design**  
+
+### **Program Structure**
+- **Intakes:** **September**  
+- **Duration:** **2 years (4 levels, 110.5 total credits, including an 8-week practicum)**  
+
+### **Core Courses**
+#### **Year 1**
+- **Frontend Web Technologies & JavaScript**  
+- **Vector Graphics & Photoshop**  
+- **Agile Project Management & Marketing**  
+
+#### **Year 2**
+- **Advanced Frontend Web Development**  
+- **Motion Graphics & Dynamic Content Design**  
+- **Full-Stack Web Development & IT Law**  
+- **Final Capstone Project & Practicum (8 weeks)**  
+
+### **Admissions & Requirements**
+- **English 12 (67%) or equivalent**  
+- **Recommended:** Basic proficiency in Mac/Windows & digital design tools  
+- **International Students:** **Eligible with a study permit (Co-op Work Permit required for practicum)**  
+
+### **Career Paths**
+- **UI/UX Designer**  
+- **Frontend Web Developer**  
+- **Digital Media Producer**  
+- **Motion Graphics Designer**  
+- **Web & Mobile Content Specialist**  
+
+---

@@ -1,0 +1,32 @@
+
+## **Foundational Digital Forensics Skills, Microcredential, Part-time (0837CM) - BCIT**
+### **Program Overview**
+- **Type:** **Microcredential in Digital Forensics**  
+- **Delivery:** **Fully Online (Asynchronous, Part-time)**  
+- **Objective:**  
+  - Provides **introductory training in digital forensics and evidence collection**  
+  - Develops **basic cybersecurity investigation skills**  
+
+### **Key Learning Areas**
+- **Digital Evidence Handling & Imaging**  
+- **Basic Mobile Forensics & Data Recovery**  
+- **Cyber Threats & IT Security Fundamentals**  
+
+### **Program Structure**
+- **Intakes:** **January, April, September**  
+- **Completion timeline:** **Self-paced, 3-course sequence**  
+
+### **Core Courses**
+- **XFSC 3000 - Introduction to Digital Forensics (1.0 credit)**  
+- **XFSC 3005 - Forensic Evidence Imaging (1.0 credit)**  
+- **XFSC 3010 - Mobile Forensics Basic Skills (1.0 credit)**  
+
+### **Admissions & Requirements**
+- **Recommended:** Post-secondary education in Computer Science or IT  
+- **International Students:** **Eligible if studying from outside Canada (not for study permit holders)**  
+
+### **Career Paths**
+- **Cybersecurity Assistant**  
+- **Digital Evidence Technician**  
+- **IT Security Support**  
+

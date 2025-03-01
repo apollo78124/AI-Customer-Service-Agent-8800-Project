@@ -1,0 +1,43 @@
+
+## **Applied Computer Science (Wireless and Mobile Applications Development Option), Bachelor of Science, Part-time (867FBSC) - BCIT**
+### **Program Overview**
+- **Type:** **Wireless & Mobile Application Development Specialization**.
+- **Delivery:** **Blended (On-campus & Online)**.
+- **Objective:**  
+  - Train students to develop **mobile applications for smartphones, tablets, smartwatches, and wireless devices**.
+  - Covers **WiFi, Bluetooth, NFC, mobile computing constraints (battery, memory, CPU usage)**.
+  - Hands-on development using **Android, iOS, and cross-platform frameworks**.
+
+### **Key Learning Areas**
+- **Mobile UI/UX Design & Interaction**
+- **Wireless Communication & Security**
+- **Optimizing Performance & Battery Life**
+- **IoT & Wearable Technology Integration**
+- **Network Protocols & Cloud Integration**
+
+### **Program Structure**
+- **Flexible Learning:** Course-by-course registration.
+- **Intakes:** **January, April, September**.
+- **Completion timeline:** **Up to 7 years**.
+- **Schedule:** **Evenings & weekends** (Downtown/Burnaby campus & online).
+- **Graduate Studies Pathway:** Prepares students for **BCIT’s MSc in Applied Computing**.
+
+### **Core Courses**
+- **COMP 7031 - Mobile Applications Development Fundamentals**
+- **COMP 8031 - Interactive & Responsive Mobile Applications**
+- **COMP 8531 - Robust & Trustworthy Mobile Applications**
+- **COMP 7005 - Computer Networks & Protocols**
+- **COMP 7022 - Human-Computer Interaction**
+- **COMP 7071 - Database Applications Development**
+- **COMP 7401 - Mobile Graphics Programming**
+- **COMP 7402 - Cryptology & Security for Mobile Devices**
+- **COMP 7612 - Malware Analysis for Mobile Platforms**
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **60.0 credits in computing (CST Diploma or equivalent)**.  
+  - **Basic programming experience required**.
+- **International Students:**  
+  - **Study permit required**.
+
+---

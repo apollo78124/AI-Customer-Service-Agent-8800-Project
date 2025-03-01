@@ -1,0 +1,34 @@
+
+## **Cisco Certified Network Associate (CCNA), Statement of Completion, Part-time (5460NOBCIT) - BCIT**
+### **Program Overview**
+- **Type:** **CCNA Training for IT & Networking Professionals**.  
+- **Delivery:** **In-person (Burnaby Campus)**.  
+- **Objective:**  
+  - Prepares students for the **Cisco Certified Network Associate (CCNA™) exam**.  
+  - Hands-on training with **Cisco routers & switches**.  
+
+### **Key Learning Areas**
+- **Networking Theory & TCP/IP Fundamentals**  
+- **Ethernet Switching & IP Routing**  
+- **Network Security & WAN Concepts**  
+
+### **Program Structure**
+- **Intakes:** **Ongoing Flexible Learning**.  
+- **Completion timeline:** **Self-paced, three semesters**.  
+- **Schedule:** **Evenings & Weekends**.  
+
+### **Core Courses**
+- **CITX 1160 - Cisco CCNA Level 1**  
+- **CITX 2060 - Cisco CCNA Level 2**  
+- **CITX 3060 - Cisco CCNA Level 3**  
+
+### **Admissions & Requirements**
+- **English 12 or equivalent**.  
+- **International Students:** **Not eligible**.  
+
+### **Career Paths**
+- **Network Administrator**  
+- **Help Desk Technician**  
+- **IT Support Specialist**  
+
+---

@@ -1,0 +1,57 @@
+
+## **Applied Computer Science (Network Security Applications Development Option), Bachelor of Science, Full-time/Part-time (867BBSC) - BCIT**
+### **Program Overview**
+- **Type:** **Cybersecurity-Focused Software Development Degree**.  
+- **Delivery:** **Full-time (In-person) / Part-time (Blended: Online + In-Person)**.  
+- **Objective:**  
+  - Train students to develop **secure applications & network-based security tools**.  
+  - Hands-on experience with **C, C++, Java, Python, and cybersecurity frameworks**.
+
+### **Key Learning Areas**
+- **Secure Software Development**  
+- **Penetration Testing & Exploit Development**  
+- **Network Security & Cryptography**  
+- **Cloud & Web Security**  
+
+### **Program Structure**
+#### **Full-Time**
+- **Intake:** **September**.  
+- **Duration:** **2 years (Four 15-week terms)**.  
+- **Class schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+
+#### **Part-Time**
+- **Flexible, course-by-course registration**.  
+- **Completion timeline:** **Up to 7 years**.  
+- **Blended delivery:** **Online & In-Person**.  
+
+### **Core Courses**
+#### **Level 5 (15 weeks)**
+- **COMP 7003 - Introduction to Information & Network Security (3.0 credits)**  
+- **COMP 7005 - Computer Networks & Protocols (3.0 credits)**  
+- **COMP 7035 - Operating Systems (3.0 credits)**  
+- **COMP 7082 - Software Engineering (3.0 credits)**  
+- **MATH 7808 - Calculus for Computing (4.0 credits)**  
+
+#### **Level 6 (15 weeks)**
+- **COMP 8003 - Network Security Administration (3.0 credits)**  
+- **COMP 8042 - Advanced Algorithms & Data Structures (3.0 credits)**  
+- **COMP 8082 - Project Management (3.0 credits)**  
+- **MATH 7908 - Linear Algebra for Computing (4.0 credits)**  
+
+#### **Level 7 (15 weeks)**
+- **COMP 7402 - Cryptology & Secure Protocols (3.0 credits)**  
+- **COMP 8005 - Network & Security Applications Development (3.0 credits)**  
+- **COMP 8085 - Artificial Intelligence (3.0 credits)**  
+- **COMP 8800 - Major Project 1 (3.0 credits)**  
+
+#### **Level 8 (15 weeks)**
+- **COMP 7012 - Interaction Design (3.0 credits)**  
+- **COMP 8505 - Special Topics in Network & Security Development (3.0 credits)**  
+- **COMP 8900 - Major Project 2 (3.0 credits)**  
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **60.0 credits of post-secondary education in computing**.  
+  - **Experience in C recommended**.  
+- **International Students:**  
+  - **Study permit required for full-time students**.  

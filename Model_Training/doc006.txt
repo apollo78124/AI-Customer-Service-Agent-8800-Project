@@ -1,0 +1,66 @@
+
+## **Applied Computer Science (Games Development Option), Bachelor of Science, Full-time (867ABSC) - BCIT**
+### **Program Overview**
+- **Type:** **Specialized Bachelor's Degree in Game Development**.  
+- **Delivery:** **Full-time (In-person, Burnaby Campus)**.  
+- **Objective:**  
+  - Train students in **game design, artificial intelligence, physics, and 3D graphics programming**.  
+  - Develop **strong theoretical knowledge and practical development skills** using tools like **Unity3D, OpenGL, and C++**.
+
+### **Key Learning Areas**
+- **Game Engine Development**  
+- **3D Graphics & Physics-Based Simulation**  
+- **Artificial Intelligence for Games**  
+- **Game Networking & Multiplayer Systems**  
+- **Audio-Visual Effects & User Interface Design**
+
+### **Program Structure**
+- **Intake:** **September**.  
+- **Duration:** **2 years (Four 15-week terms)**.  
+- **Class schedule:** **Monday-Friday, 8:30 AM - 5:30 PM**.  
+- **Co-op Option:** **Competitive, optional placements available**.  
+
+### **Core Courses**
+#### **Level 5 (15 weeks)**
+- **COMP 7035 - Operating Systems (3.0 credits)**  
+- **COMP 7051 - Introduction to Game Development (3.0 credits)**  
+- **COMP 7082 - Software Engineering (3.0 credits)**  
+- **COMP 7903 - Game Design Fundamentals (3.0 credits)**  
+- **MATH 7808 - Calculus for Computing (4.0 credits)**  
+
+#### **Level 6 (15 weeks)**
+- **COMP 7905 - Art in Game Development (3.0 credits)**  
+- **COMP 8042 - Advanced Algorithms & Data Structures (3.0 credits)**  
+- **COMP 8051 - Advanced Game Architecture (3.0 credits)**  
+- **COMP 8082 - Project Management (3.0 credits)**  
+- **MATH 7908 - Linear Algebra for Computing (4.0 credits)**  
+
+#### **Level 7 (15 weeks)**
+- **COMP 7003 - Introduction to Information & Network Security (3.0 credits)**  
+- **COMP 8085 - Artificial Intelligence (3.0 credits)**  
+- **COMP 8552 - Advanced Game Programming Techniques (3.0 credits)**  
+- **COMP 8800 - Major Project 1 (3.0 credits)**  
+- **LIBS 7001 - Critical Reading & Writing (3.0 credits)**  
+- **LIBS 7002 - Applied Ethics (3.0 credits)**  
+
+#### **Level 8 (15 weeks)**
+- **COMP 7012 - Interaction Design (3.0 credits)**  
+- **COMP 8900 - Major Project 2 (3.0 credits)**  
+
+### **Admissions & Requirements**
+- **Prerequisites:**  
+  - **60.0 credits of post-secondary education in computing** (BCIT CST Diploma or equivalent).  
+  - **Mathematics & Statistics coursework required**.  
+  - **Experience in C++ recommended**.  
+- **International Students:**  
+  - **Study permit required**.  
+  - **Co-op work permit required for work experience**.
+
+### **Career Paths**
+- **Game Developer** (Indie or AAA Studios)  
+- **Game AI Programmer**  
+- **Graphics & Physics Programmer**  
+- **AR/VR Developer**  
+- **Game Network Engineer**  
+
+---

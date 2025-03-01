@@ -1,0 +1,41 @@
+
+## **Applied Computer Applications (ACA), Associate Certificate (5525ACERT) - BCIT**
+### **Program Overview**
+- **Type:** **Office & productivity software training program**.
+- **Delivery:** **Blended (Online + In-Person)**.
+- **Status:** **Under review, not accepting applications**.
+- **Objective:**  
+  - Provide expert-level training in **Windows 11, Microsoft Office (Word, Excel, PowerPoint), and basic IT concepts**.
+  - Includes **optional courses in IT project management, reporting tools (Crystal Reports), and business communication**.
+
+### **Key Learning Areas**
+- **Operating System & File Management (Windows 11)**  
+- **Microsoft Office Suite (Word, Excel, PowerPoint, Access)**  
+- **Web Development Basics**  
+- **Business & Technical Communication**  
+- **IT Project Management & Reporting Tools**
+
+### **Core Courses (13.0 Credits)**
+- **COMP 1002 - Applied Computer Concepts (3.0 credits)**  
+- **COMP 1850 - Introduction to Web Development (3.0 credits)**  
+- **COMP 2364 - Microsoft Excel (3.0 credits)**  
+- **COMP 2369 - Microsoft Word (3.0 credits)**  
+- **COMP 2384 - Microsoft PowerPoint (1.0 credit)**  
+
+### **Elective Courses (Choose 4.5 credits)**
+- **COMP 1288 - IT Project Management Fundamentals (1.5 credits)**  
+- **COMP 1370 - Microsoft Access Fundamentals (1.5 credits)**  
+- **COMP 2252 - SAP Crystal Reports (3.0 credits)**  
+- **COMM 1103 or COMM 1106 - Business & Technical Communication (3.0 credits)**  
+- **XCOM 3840 - Technical Presentations (1.5 credits)**  
+
+### **Admissions & Requirements**
+- **Prerequisite:** **English 12 (or equivalent knowledge in reading, writing, and speaking)**.  
+- **International students:** **Not eligible**.  
+
+### **Costs & Timeline**
+- **Estimated cost:** **$4,000 (varies by electives chosen)**.  
+- **Completion timeline:** **3+ part-time terms**.  
+- **Location:** **Burnaby Campus, Downtown Campus, Online**.
+
+---

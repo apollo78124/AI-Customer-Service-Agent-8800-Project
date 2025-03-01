@@ -1,0 +1,33 @@
+
+## **Essentials of Data Networks, Microcredential, Part-time (0811CM) - BCIT**
+### **Program Overview**
+- **Type:** **Microcredential in Networking Fundamentals**  
+- **Delivery:** **Fully Online (Part-time, Self-Paced)**  
+- **Objective:**  
+  - Introduces **basic networking concepts**  
+  - Prepares students for **entry-level networking roles**  
+
+### **Key Learning Areas**
+- **Network Fundamentals & Terminology**  
+- **IP Addressing & Network Protocols**  
+- **Network Connectivity & Security Basics**  
+
+### **Program Structure**
+- **Intakes:** **January, April, September**  
+- **Completion timeline:** **Self-paced, part-time**  
+- **Total Credits:** **6.0**  
+
+### **Core Courses**
+- **XINC 1101 - Network Terminology and Protocols (2.0 credits)**  
+- **XINC 1102 - Network Addressing and Services (2.0 credits)**  
+- **XINC 1103 - Network Connectivity (2.0 credits)**  
+
+### **Admissions & Requirements**
+- **Minimum Requirement:** Grade 10 completion  
+- **Recommended:** Basic computer literacy & web browsing skills  
+- **International Students:** **Eligible if studying from outside Canada (not for study permit holders)**  
+
+### **Career Paths**
+- **Network Administrator (Entry-Level)**  
+- **Data Center Technician**  
+- **IT Support Specialist**  

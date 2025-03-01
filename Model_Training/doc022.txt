@@ -1,0 +1,46 @@
+
+## **Computer Systems, Diploma, Part-time (5500PDIPLT) - BCIT**
+### **Program Overview**
+- **Type:** **Part-time Diploma in Software Development & IT Systems**.  
+- **Delivery:** **Blended (Evening & Weekend Classes)**.  
+- **Objective:**  
+  - Builds on **Computer Systems Certificate (CSC)**.  
+  - Provides specialization in **Web Development, DevOps, Cloud Computing, and Cybersecurity**.  
+
+### **Key Learning Areas**
+- **Software Development (Java, C++, Python, C#)**
+- **Cybersecurity & IT Infrastructure**
+- **Cloud Computing (AWS, Azure)**
+- **Database & Business Intelligence**
+- **Network Administration & DevOps**
+
+### **Program Structure**
+- **Intakes:** **January, April, September**.  
+- **Completion timeline:** **2-4 years (Flexible Learning)**.  
+
+### **Core Courses**
+- **COMP 3603 - Application Development (C++)**
+- **COMP 3704 - Applied IT Security Fundamentals**
+- **COMP 3725 - Data Communications for IT**
+- **COMP 3761 - Algorithm Analysis & Design**
+- **COMP 4737 - Operating Systems**
+- **COMP 4603 - Advanced C++ Development**
+- **LIBS 7102 - Ethics for Computing Professionals**
+
+### **Electives (Specialization)**
+- **Cloud Computing (AWS, Azure)**
+- **Web Development (PHP, React, Node.js)**
+- **Database & Business Intelligence**
+- **Cybersecurity & Network Security**
+- **Applied DevOps & Kubernetes**
+
+### **Admissions & Requirements**
+- **Completion of Computer Systems Certificate (CSC) required**.  
+- **International Students:** **Eligible with a valid study permit**.  
+
+### **Career Paths**
+- **Software Engineer**
+- **Cloud Architect**
+- **Cybersecurity Analyst**
+- **DevOps Engineer**
+- **Database Administrator**  

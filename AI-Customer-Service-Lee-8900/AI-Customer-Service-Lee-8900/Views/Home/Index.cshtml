@@ -18,6 +18,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap" rel="stylesheet">
     <link href="./css/home.css" rel="stylesheet" async />
+    <link href="./css/popup.css" rel="stylesheet" async />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script defer type="text/javascript" src="./js/home.js"></script>
 </head>
@@ -250,6 +251,11 @@
         <div class="cont">
             <div class="header">
                 <div class="lefty">
+                    <div class="chatlist">
+                        <button onclick="openChatList()">
+                            <img class="hamburger" src="/files/hamburger.svg" />
+                        </button>
+                    </div>
                     <div class="dp">
                         <img class="profile_pic" src="~/files/bcit-bot.webp"/>
                     </div>
@@ -271,88 +277,78 @@
             </div>
             <div class="chatting">
                 <div class="msg_track">
-                    <div class="message_me">
-                        <div>
-                            <p>
-                                What are the requirements to enter the BCIT Bachelor of Science?
-                            </p>
-                        </div>
-                    </div>
-                    <div class="message_other">
-                        <div>
-                            <p>
-                                Refer to the following link: <a href="https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/#entry" target="_blank">
-                                    Applied Computer Science (Network Security Applications Development Option), Bachelor of
-                                    Science, Full-time/Part-time
-                                </a>
-                            </p>
-
-                            <ul>
-                                <li>
-                                    <strong>English language proficiency:</strong> <a href="https://www.bcit.ca/admission/entrance-requirements/english-language-proficiency/#category2">
-                                        Category
-                                        2
-                                    </a> English Studies 12 (67%) or equivalent
-                                </li>
-                                <br />
-
-
-                                <li>
-                                    <strong>Post-secondary education:</strong> A minimum of 60.0 credits of post-secondary
-                                    education in Computing from a recognized institution, which consists of:
-                                </li>
-
-                                <ul>
-                                    <li>6.0 credits of English or communications</li>
-                                    <li>6.0 credits of math, with a minimum of 3.0 credits in discrete math</li>
-                                    <li>3.0 credits of statistics</li>
-                                    <li>
-                                        27.0 credits of computing, with a minimum of 3.0 credits in each of the following
-                                        seven courses:
-                                        <ul>
-                                            <li>Algorithms and data structures</li>
-                                            <li>Computer architecture</li>
-                                            <li>Database</li>
-                                            <li>Data communications and networking</li>
-                                            <li>Object-oriented programming</li>
-                                            <li>Procedural programming</li>
-                                            <li>Systems analysis and design</li>
-                                        </ul>
-
-                                        In addition to the above, acceptance into the following options is subject to the
-                                        following requirements:
-
-                                        <ul>
-                                            <li>Games Development Option requires familiarity with C++.</li>
-                                            <li>Network Security Development Option requires familiarity with C. </li>
-
-                                        </ul>
-                                    </li>
-                                    <li> 18.0 of general education and/or other computing courses:</li>
-                                    <ul>
-                                        <li>
-                                            The BScACS Program Head will assess the equivalency of credits obtained from
-                                            other institutions to ensure that graduation requirements are met.
-                                        </li>
-                                    </ul>
-
-                                </ul>
-                            </ul>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="chat_ctrl_panel">
-                <button class="voice_cmd">
-                    <img />
-                </button>
-                <button class="file_attachment">
-                    <img />
+                <button class="savechat" onclick="openSaveChatPopup()">
+                    <img src="~/files/save.svg"/>
                 </button>
                 <textarea class="usr_msg" placeholder="Type message here..." onsubmit="sendMessage()"></textarea>
                     <button class="send_btn" onclick="sendMessage()">
                         <img src="~/files/send.svg"/>
                     </button>
+            </div>
+        </div>
+    </section>
+
+    <section class="converslist">
+        <div class="cont">
+            <div class="header">
+                <div class="lefty">
+                    <div class="dp">
+                        <img class="profile_pic" src="~/files/AILibrary.png" />
+                    </div>
+                    <button class="bot_name">
+                        <span>
+                            Continue Saved Chats
+                        </span>
+                        <img class="down_arow" />
+                    </button>
+                </div>
+                <div class="rightyy">
+                    <button class="close" onclick="closeChatList()">
+                        <svg viewBox="0 0 12 13" width="20" height="20" fill="rgb(105 157 239)" class="xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq" style="--color: rgb(105 157 239);"><g fill-rule="evenodd" transform="translate(-450 -1073)"><g fill-rule="nonzero"><path d="m98.095 917.155 7.75 7.75a.75.75 0 0 0 1.06-1.06l-7.75-7.75a.75.75 0 0 0-1.06 1.06z" transform="translate(353.5 159)"></path><path d="m105.845 916.095-7.75 7.75a.75.75 0 1 0 1.06 1.06l7.75-7.75a.75.75 0 0 0-1.06-1.06z" transform="translate(353.5 159)"></path></g></g></svg>
+                    </button>
+                </div>
+            </div>
+        
+            <div class="chatlist">
+                <div class="chattrack">
+                    @if (Model.userId > 0)
+                    {
+                        <p>List of Saved Chats for <span>@Model.username</span></p>
+                    }
+                    else
+                    {
+                        <p>Login to view previous chat</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="savechatpopup">
+        <div class="cont">
+            <div class="header">
+                <div class="lefty">
+                    <div class="dp">
+                        <img class="profile_pic" src="~/files/AILibrary.png" />
+                    </div>
+                    <button class="bot_name">
+                        <span>
+                            Save This Chat
+                        </span>
+                        <img class="down_arow" />
+                    </button>
+                </div>
+                <div class="rightyy">
+                    <button class="close" onclick="closeSaveChatPopup()">
+                        <svg viewBox="0 0 12 13" width="20" height="20" fill="rgb(105 157 239)" class="xfx01vb x1lliihq x1tzjh5l x1k90msu x2h7rmj x1qfuztq" style="--color: rgb(105 157 239);"><g fill-rule="evenodd" transform="translate(-450 -1073)"><g fill-rule="nonzero"><path d="m98.095 917.155 7.75 7.75a.75.75 0 0 0 1.06-1.06l-7.75-7.75a.75.75 0 0 0-1.06 1.06z" transform="translate(353.5 159)"></path><path d="m105.845 916.095-7.75 7.75a.75.75 0 1 0 1.06 1.06l7.75-7.75a.75.75 0 0 0-1.06-1.06z" transform="translate(353.5 159)"></path></g></g></svg>
+                    </button>
+                </div>
+            </div>
+            <div class="inputwrapper">
+                <input name="chatname" placeholder="Chat Save File Name" />
             </div>
         </div>
     </section>

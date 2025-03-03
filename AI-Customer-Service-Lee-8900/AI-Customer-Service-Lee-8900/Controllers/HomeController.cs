@@ -18,6 +18,7 @@ namespace AI_Customer_Service_Lee_8900.Controllers
         public IActionResult Index()
         {
             var model = new ViewModel1 { userId = -1 };
+            model.chats = new List<Conversations>();
 
             if (HttpContext.Request.Cookies["userId"] != null) {
                 model.userId = int.Parse(HttpContext.Request.Cookies["userId"]);
@@ -27,6 +28,8 @@ namespace AI_Customer_Service_Lee_8900.Controllers
                     if (foundUser != null)
                     {
                         model.username = foundUser.Name;
+                        model.chats.AddRange(context.Conversations.Where(c => c.UserId == foundUser.Id));
+
                     } else
                     {
                         model.username = "Unknown User";

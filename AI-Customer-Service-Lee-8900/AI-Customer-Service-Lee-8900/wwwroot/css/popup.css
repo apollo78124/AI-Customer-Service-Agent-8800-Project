@@ -1,0 +1,449 @@
+﻿section.chat_window {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background: transparent;
+    z-index: 42069;
+    display: none;
+    transition: none;
+}
+
+    section.chat_window .cont {
+        width: 100%;
+        background-color: #FFF;
+        max-width: 900px;
+        margin: 0px auto;
+        padding: 0;
+        padding-bottom: 0;
+    }
+
+        section.chat_window .cont .header {
+            padding: 20px 30px;
+            display: flex;
+            justify-content: space-between;
+            box-shadow: 0 8px 16px 0 rgb(0 0 0/20%);
+            position: relative;
+            z-index: 6969;
+        }
+
+            section.chat_window .cont .header .lefty {
+                display: flex;
+                column-gap: 20px;
+            }
+
+                section.chat_window .cont .header .lefty .dp {
+                    width: 40px;
+                    height: 40px;
+                }
+
+                    section.chat_window .cont .header .lefty .dp img {
+                        width: 100%;
+                        height: 100%;
+                        border-radius: 50%;
+                    }
+
+                section.chat_window .cont .header .lefty button {
+                    border: none;
+                    background-color: transparent;
+                    font-weight: 700;
+                    font-size: 25px;
+                    line-height: 100%;
+                }
+
+                section.chat_window .cont .header .lefty .chatlist {
+                    height: fit-content;
+                }
+
+                    section.chat_window .cont .header .lefty .chatlist button {
+                        width: 35px;
+                        height: 35px;
+                        cursor: pointer;
+                        margin: auto;
+                        display: block;
+                    }
+
+                        section.chat_window .cont .header .lefty .chatlist button img {
+                            width: 100%;
+                            height: 100%;
+                            display: block;
+                        }
+
+                        section.chat_window .cont .header .lefty .chatlist button:hover img {
+                            transform: scale(1.1);
+                        }
+
+            section.chat_window .cont .header .rightyy button {
+                border: none;
+                background: transparent;
+                cursor: pointer;
+                width: 30px;
+                height: 30px;
+            }
+
+                section.chat_window .cont .header .rightyy button:hover {
+                    filter: brightness(30%);
+                }
+
+                section.chat_window .cont .header .rightyy button svg {
+                    width: 100%;
+                    height: 100%;
+                }
+
+        section.chat_window .cont .chatting {
+            max-height: 70vh;
+            overflow-y: auto;
+            margin-bottom: 30px;
+            scroll-snap-align: end;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+            section.chat_window .cont .chatting .msg_track {
+                height: fit-content;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                min-height: 80vh;
+                /* position: relative; */
+            }
+
+                section.chat_window .cont .chatting .msg_track ul {
+                    list-style: inside;
+                }
+
+                section.chat_window .cont .chatting .msg_track > .message_me {
+                    background-color: transparent;
+                    padding-bottom: 30px;
+                }
+
+                    section.chat_window .cont .chatting .msg_track > .message_me > div {
+                        background-color: #0084ff;
+                        color: #FFF;
+                        font-weight: 500;
+                        width: fit-content;
+                        max-width: 70%;
+                        border-radius: 10px;
+                        padding: 10px 20px;
+                        float: right;
+                        transition: none;
+                    }
+
+                section.chat_window .cont .chatting .msg_track > .message_other {
+                    padding-bottom: 30px;
+                }
+
+
+
+                    section.chat_window .cont .chatting .msg_track > .message_other > div {
+                        background-color: #f0f0f0;
+                        width: fit-content;
+                        max-width: 70%;
+                        border-radius: 10px;
+                        padding: 10px 20px;
+                        float: left;
+                        transition: none;
+                    }
+
+                    section.chat_window .cont .chatting .msg_track > .message_other.waiting > div {
+                        height: 48px;
+                        width: 123px;
+                        position: relative;
+                        overflow: hidden;
+                    }
+
+                        section.chat_window .cont .chatting .msg_track > .message_other.waiting > div:before {
+                            content: "...";
+                            font-size: 106px;
+                            line-height: 1px;
+                            height: 1px;
+                            display: block;
+                            position: absolute;
+                            top: 0px;
+                            left: -54px;
+                            animation: messageLoading 1s ease-in-out infinite;
+                        }
+
+
+        section.chat_window .cont .chat_ctrl_panel {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            padding: 20px 15px;
+            box-shadow: 0px -4px 16px 0 rgb(0 0 0 / 20%);
+        }
+
+            section.chat_window .cont .chat_ctrl_panel button.savechat {
+                display: block;
+                border: none;
+                width: 6%;
+                height: fit-content;
+                padding: 3px;
+                cursor: pointer;
+                background-color: transparent;
+            }
+
+                section.chat_window .cont .chat_ctrl_panel button.savechat img {
+                    width: 100%;
+                    height: auto;
+                    display: block;
+                    object-fit: contain;
+                }
+
+
+            section.chat_window .cont .chat_ctrl_panel textarea {
+                width: 89%;
+                padding: 8px;
+                min-height: 50px;
+                border: 1px solid #2e335c;
+            }
+
+            section.chat_window .cont .chat_ctrl_panel button.send_btn {
+                width: 4%;
+                min-height: 10px;
+                aspect-ratio: 5 / 5;
+                border: none;
+                background: transparent;
+                cursor: pointer;
+            }
+
+                section.chat_window .cont .chat_ctrl_panel button.send_btn img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: contain;
+                    object-position: center;
+                    display: block;
+                }
+
+                section.chat_window .cont .chat_ctrl_panel button.send_btn:hover img {
+                    filter: brightness(1%);
+                }
+
+section.converslist {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background: transparent;
+    z-index: 420420;
+    display: none;
+    transition: none;
+}
+
+    section.converslist .cont {
+        width: 100%;
+        background-color: #FFF;
+        max-width: 900px;
+        margin: 0px auto;
+        padding: 0;
+        padding-bottom: 20px;
+    }
+
+        section.converslist .cont .header {
+            padding: 20px 30px;
+            display: flex;
+            justify-content: space-between;
+            box-shadow: 0 8px 16px 0 rgb(0 0 0/20%);
+            position: relative;
+            z-index: 6969;
+        }
+
+            section.converslist .cont .header .lefty {
+                display: flex;
+                column-gap: 20px;
+            }
+
+                section.converslist .cont .header .lefty .dp {
+                    width: 71px;
+                    height: 71px;
+                }
+
+                    section.converslist .cont .header .lefty .dp img {
+                        width: 100%;
+                        height: 100%;
+                        border-radius: 1%;
+                        display: block;
+                        object-fit: contain;
+                        object-position: center;
+                    }
+
+                section.converslist .cont .header .lefty button {
+                    border: none;
+                    background-color: transparent;
+                    font-weight: 700;
+                    font-size: 25px;
+                    line-height: 100%;
+                }
+
+                section.converslist .cont .header .lefty .chatlist {
+                    height: fit-content;
+                }
+
+                    section.converslist .cont .header .lefty .chatlist button {
+                        width: 35px;
+                        height: 35px;
+                        cursor: pointer;
+                        margin: auto;
+                        display: block;
+                    }
+
+                        section.converslist .cont .header .lefty .chatlist button img {
+                            width: 100%;
+                            height: 100%;
+                            display: block;
+                        }
+
+                        section.converslist .cont .header .lefty .chatlist button:hover img {
+                            transform: scale(1.1);
+                        }
+
+            section.converslist .cont .header .rightyy button {
+                border: none;
+                background: transparent;
+                cursor: pointer;
+                width: 30px;
+                height: 30px;
+            }
+
+                section.converslist .cont .header .rightyy button:hover {
+                    filter: brightness(30%);
+                }
+
+                section.converslist .cont .header .rightyy button svg {
+                    width: 100%;
+                    height: 100%;
+                }
+
+        section.converslist .cont .chatting {
+            max-height: 70vh;
+            overflow-y: auto;
+            margin-bottom: 30px;
+            scroll-snap-align: end;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+            section.converslist .cont .chatting .msg_track {
+                height: fit-content;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                min-height: 80vh;
+                /* position: relative; */
+            }
+
+                section.converslist .cont .chatting .msg_track ul {
+                    list-style: inside;
+                }
+
+                section.converslist .cont .chatting .msg_track > .message_me {
+                    background-color: transparent;
+                    padding-bottom: 30px;
+                }
+
+                    section.converslist .cont .chatting .msg_track > .message_me > div {
+                        background-color: #0084ff;
+                        color: #FFF;
+                        font-weight: 500;
+                        width: fit-content;
+                        max-width: 70%;
+                        border-radius: 10px;
+                        padding: 10px 20px;
+                        float: right;
+                        transition: none;
+                    }
+
+                section.converslist .cont .chatting .msg_track > .message_other {
+                    padding-bottom: 30px;
+                }
+
+
+
+                    section.converslist .cont .chatting .msg_track > .message_other > div {
+                        background-color: #f0f0f0;
+                        width: fit-content;
+                        max-width: 70%;
+                        border-radius: 10px;
+                        padding: 10px 20px;
+                        float: left;
+                        transition: none;
+                    }
+
+                    section.converslist .cont .chatting .msg_track > .message_other.waiting > div {
+                        height: 48px;
+                        width: 123px;
+                        position: relative;
+                        overflow: hidden;
+                    }
+
+                        section.converslist .cont .chatting .msg_track > .message_other.waiting > div:before {
+                            content: "...";
+                            font-size: 106px;
+                            line-height: 1px;
+                            height: 1px;
+                            display: block;
+                            position: absolute;
+                            top: 0px;
+                            left: -54px;
+                            animation: messageLoading 1s ease-in-out infinite;
+                        }
+
+
+        section.converslist .cont .chat_ctrl_panel {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            padding: 10px 15px;
+        }
+
+
+            section.converslist .cont .chat_ctrl_panel textarea {
+                width: 92%;
+                padding: 8px;
+                min-height: 50px;
+            }
+
+            section.converslist .cont .chat_ctrl_panel button.send_btn {
+                width: 4%;
+                min-height: 10px;
+                aspect-ratio: 5 / 5;
+                border: none;
+                background: transparent;
+                cursor: pointer;
+            }
+
+                section.converslist .cont .chat_ctrl_panel button.send_btn img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: contain;
+                    object-position: center;
+                    display: block;
+                }
+
+                section.converslist .cont .chat_ctrl_panel button.send_btn:hover img {
+                    filter: brightness(1%);
+                }
+
+        section.converslist .cont .chatlist {
+            max-height: 70vh;
+            overflow-y: auto;
+            margin-bottom: 30px;
+            scroll-snap-align: end;
+            padding-left: 20px;
+            padding-right: 20px;
+            min-height: 80vh;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+            section.converslist .cont .chatlist .chattrack {
+                height: fit-content;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                min-height: 80vh;
+            }
+
+                section.converslist .cont .chatlist .chattrack p {
+                    font-size: 20px;
+                }

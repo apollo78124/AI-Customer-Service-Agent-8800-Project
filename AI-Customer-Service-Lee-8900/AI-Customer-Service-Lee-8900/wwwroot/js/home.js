@@ -138,3 +138,15 @@ function openUserDropdown() {
 function closeUserDropdown() {
     $('header .nav_bar .rightyy .user-info .user-dropdown').hide('fast');
 }
+
+function openChatList() {
+    $('section.converslist').show('fast');
+}
+
+function closeChatList() {
+    $('section.converslist').hide('fast');
+}
+
+function openSaveChatPopup() {
+
+}

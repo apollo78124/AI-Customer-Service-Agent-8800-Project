@@ -2,7 +2,6 @@
 using Microsoft.Extensions.AI;
 using AI_Customer_Service_Lee_8900.Models;
 using System.Diagnostics;
-using DocumentFormat.OpenXml.InkML;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -70,17 +69,16 @@ namespace AI_Customer_Service_Lee_8900.Controllers
             return new string[] { response.Replace("\n", "<br />") };
         }
 
-        // PUT api/<LlamaAPI>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
+        [Route("save-chat")]
+        [HttpPost]
+        public async Task<string> SaveCurrentChat([FromBody] string value)
+        {   
+
+
+            return "Saved";
         }
 
-        // DELETE api/<LlamaAPI>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+
 
         public string GetContext(string query)
         {

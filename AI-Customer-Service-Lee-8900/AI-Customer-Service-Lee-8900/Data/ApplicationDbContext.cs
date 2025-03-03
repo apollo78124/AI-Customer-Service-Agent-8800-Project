@@ -61,6 +61,7 @@ namespace AI_Customer_Service_Lee_8900.Data
     {
         [Key]
         public int ConversationId { get; set; }
+        public string? Name { get; set; }
         public string Message { get; set; }
         public DateTime Timestamp { get; set; }
 

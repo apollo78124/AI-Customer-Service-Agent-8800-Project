@@ -280,9 +280,12 @@
                 </div>
             </div>
             <div class="chat_ctrl_panel">
-                <button class="savechat" onclick="openSaveChatPopup()">
-                    <img src="~/files/save.svg"/>
-                </button>
+
+                @if (Model.userId > 0) {
+                    <button class="savechat" onclick="openSaveChatPopup()">
+                        <img src="~/files/save.svg" />
+                    </button>
+                }
                 <textarea class="usr_msg" placeholder="Type message here..." onsubmit="sendMessage()"></textarea>
                     <button class="send_btn" onclick="sendMessage()">
                         <img src="~/files/send.svg"/>
@@ -316,7 +319,11 @@
                 <div class="chattrack">
                     @if (Model.userId > 0)
                     {
-                        <p>List of Saved Chats for <span>@Model.username</span></p>
+                        <h3>List of Saved Chats for <span>@Model.username</span></h3>
+
+                        foreach (var conv in Model.chats.Where(c => c.UserId == Model.userId).OrderByDescending(p => p.Timestamp).ToList()) {
+                            <button class="chatitem" onclick="loadChat(@conv.ConversationId)"><span class="name">@conv.Name</span><span class="date">@conv.Timestamp.ToString("MMM dd, yyyy hh:mm tt")</span></button>
+                        }
                     }
                     else
                     {
@@ -349,9 +356,48 @@
             </div>
             <div class="inputwrapper">
                 <input name="chatname" placeholder="Chat Save File Name" />
+            </div>  
+            <div class="saveButton">
+                <button class="save-chat" onclick="saveChat(this);">Save</button>
             </div>
         </div>
     </section>
+    <script>
+        function saveChat(theButton) {
+            var saveName = $(theButton).parent().parent().find('[name="chatname"]').val();
+
+            $.ajax({
+                url: '/api/save-chat',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({
+                    chatname: saveName,
+                    userid: @Model.userId
+                }),
+                beforeSend: function () {
+                },
+                success: function (response) {
+                    try {
+                        if (response == "Saved") {
+                            alert('Saved');
+                            closeSaveChatPopup();
+                        } else {
+                            alert('Failed');
+                        }
+
+                    } catch (e) {
+                        alert('Something went wrong, please try again later');
+                    }
+
+                },
+                error: function (xhr, status, error) {
+                    alert('Something went wrong, please try again later');
+                    console.error("Error:", error);
+                }
+            });
+        }
+
+    </script>
 </body>
 
 </html>

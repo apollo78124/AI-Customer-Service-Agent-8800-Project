@@ -7,13 +7,13 @@ namespace AI_Customer_Service_Lee_8900.Models
 
     public interface IChatHistoryService
     {
-        List<ChatMessage> ChatHistory { get; }
+        List<Microsoft.Extensions.AI.ChatMessage> ChatHistory { get; set; }
         IChatClient chatClient { get; }
     }
 
     public class ChatHistoryService : IChatHistoryService
     {
-        public List<ChatMessage> ChatHistory { get; } = new List<ChatMessage>();
+        public List<ChatMessage> ChatHistory { get; set; } = new List<ChatMessage>();
         public IChatClient chatClient { get; } = new OllamaChatClient(new Uri("http://localhost:11434/"), "llama3.1");
 
         public ChatHistoryService()

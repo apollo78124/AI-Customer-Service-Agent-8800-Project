@@ -148,5 +148,48 @@ function closeChatList() {
 }
 
 function openSaveChatPopup() {
+    $('section.savechatpopup').show('fast');
+}
 
+function closeSaveChatPopup() {
+    $('section.savechatpopup').hide('fast');
+}
+
+
+function loadChat(value) {
+
+    var messageTrack = $('section.chat_window .cont .chatting .msg_track');
+    $.ajax({
+        url: '/api/load-chat/' + value,
+        type: 'GET',
+        beforeSend: function () {
+        },
+        success: function (response) {
+            try {
+                if (response.length > 0) {
+                    $(messageTrack).html('');
+                    $(response).each(function (index, element) {
+                        if (element.role == 'assistant') {
+                            $(messageTrack).append('<div class= "message_other"><div>' + element.contents[0].text + '</div></div>');
+                        }
+
+                        if (element.role == 'user') {
+                            $(messageTrack).append('<div class= "message_me"><div>' + element.contents[0].text + '</div></div>');
+                        }
+                    });
+                    closeChatList();
+                } else {
+                    alert('Load Failed');
+                }
+
+            } catch (e) {
+                alert('Something went wrong, please try again later');
+            }
+
+        },
+        error: function (xhr, status, error) {
+            alert('Something went wrong, please try again later');
+            console.error("Error:", error);
+        }
+    });
 }

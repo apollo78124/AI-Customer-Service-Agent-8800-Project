@@ -92,6 +92,7 @@
 
         section.chat_window .cont .chatting {
             max-height: 70vh;
+            min-height: 70vh;
             overflow-y: auto;
             margin-bottom: 30px;
             scroll-snap-align: end;
@@ -104,7 +105,7 @@
                 padding: 20px;
                 display: flex;
                 flex-direction: column;
-                min-height: 80vh;
+                min-height: 69vh;
                 /* position: relative; */
             }
 
@@ -444,6 +445,169 @@ section.converslist {
                 min-height: 80vh;
             }
 
+                section.converslist .cont .chatlist .chattrack h3 {
+                    font-weight: 700;
+                    font-size: 22px;
+                    margin-bottom: 20px;
+                }
+
                 section.converslist .cont .chatlist .chattrack p {
                     font-size: 20px;
                 }
+
+                section.converslist .cont .chatlist .chattrack button.chatitem {
+                    border: none;
+                    background-color: #dbdbdb4a;
+                    display: flex;
+                    padding: 20px 20px;
+                    border-radius: 2px;
+                    justify-content: space-between;
+                    font-size: 18px;
+                    cursor: pointer;
+                }
+
+                    section.converslist .cont .chatlist .chattrack button.chatitem:hover span.name {
+                        font-size: 20px;
+                        font-weight: 700;
+                    }
+
+section.savechatpopup {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    z-index: 420420420;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    display: none;
+    transition: none;
+}
+
+    section.savechatpopup:before {
+        content: "";
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #181818cc;
+        /* filter: blur(346px); */
+    }
+
+
+    section.savechatpopup .cont {
+        width: 100%;
+        max-width: 399px;
+        height: fit-content;
+        background-color: #FFF;
+        position: relative;
+        margin: 0px auto;
+        margin-top: 37vh;
+    }
+
+        section.savechatpopup .cont .header {
+            padding: 20px 30px;
+            display: flex;
+            justify-content: space-between;
+            /* box-shadow: 0 8px 16px 0 rgb(0 0 0/20%); */
+            position: relative;
+            z-index: 6969;
+        }
+
+            section.savechatpopup .cont .header .lefty {
+                display: flex;
+                column-gap: 20px;
+            }
+
+                section.savechatpopup .cont .header .lefty .dp {
+                    width: 71px;
+                    height: 71px;
+                }
+
+                    section.savechatpopup .cont .header .lefty .dp img {
+                        width: 100%;
+                        height: 100%;
+                        border-radius: 1%;
+                        display: block;
+                        object-fit: contain;
+                        object-position: center;
+                    }
+
+                section.savechatpopup .cont .header .lefty button {
+                    border: none;
+                    background-color: transparent;
+                    font-weight: 700;
+                    font-size: 25px;
+                    line-height: 100%;
+                }
+
+                section.savechatpopup .cont .header .lefty .chatlist {
+                    height: fit-content;
+                }
+
+                    section.savechatpopup .cont .header .lefty .chatlist button {
+                        width: 35px;
+                        height: 35px;
+                        cursor: pointer;
+                        margin: auto;
+                        display: block;
+                    }
+
+                        section.savechatpopup .cont .header .lefty .chatlist button img {
+                            width: 100%;
+                            height: 100%;
+                            display: block;
+                        }
+
+                        section.savechatpopup .cont .header .lefty .chatlist button:hover img {
+                            transform: scale(1.1);
+                        }
+
+            section.savechatpopup .cont .header .rightyy button {
+                border: none;
+                background: transparent;
+                cursor: pointer;
+                width: 30px;
+                height: 30px;
+            }
+
+                section.savechatpopup .cont .header .rightyy button:hover {
+                    filter: brightness(30%);
+                }
+
+                section.savechatpopup .cont .header .rightyy button svg {
+                    width: 100%;
+                    height: 100%;
+                }
+
+        section.savechatpopup .cont .inputwrapper {
+            padding: 20px 30px;
+            width: 100%;
+        }
+
+            section.savechatpopup .cont .inputwrapper input {
+                padding: 8px 10px;
+                width: 100%;
+                font-size: 16px;
+            }
+
+        section.savechatpopup .cont .saveButton {
+            padding: 20px 30px;
+            width: 100%;
+            padding-top: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+        }
+
+            section.savechatpopup .cont .saveButton button {
+                display: block;
+                padding: 8px 10px;
+                font-size: 18px;
+                border: 1px solid #1a0b0b;
+                background-color: #332e6d;
+                color: #FFF;
+                font-weight: 700;
+            }
